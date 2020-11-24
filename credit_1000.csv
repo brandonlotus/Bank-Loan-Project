@@ -1,0 +1,1001 @@
+,Loan Status,Current Loan Amount,Term,Credit Score,Annual Income,Years in current job,Home Ownership,Purpose,Monthly Debt,Years of Credit History,Number of Open Accounts,Credit Problems,Current Credit Balance,Maximum Open Credit,Bankruptcies,Tax Liens
+0,Fully Paid,445412.0,Short Term,709.0,1167493.0,8,Home Mortgage,Home Improvements,5214.74,17.2,6.0,1,228190.0,416746.0,1,0
+1,Fully Paid,262328.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,33295.98,21.1,35.0,0,229976.0,850784.0,0,0
+2,Fully Paid,347666.0,Long Term,721.0,806949.0,3,Own Home,Debt Consolidation,8741.9,12.0,9.0,0,256329.0,386958.0,0,0
+3,Fully Paid,176220.0,Short Term,726.0,1172718.0,5,Rent,Debt Consolidation,20639.7,6.1,15.0,0,253460.0,427174.0,0,0
+4,Fully Paid,217646.0,Short Term,730.0,1184194.0,0,Home Mortgage,Debt Consolidation,10855.08,19.6,13.0,1,122170.0,272052.0,1,0
+5,Charged Off,648714.0,Long Term,726.0,1172718.0,0,Home Mortgage,Buy House,14806.13,8.2,15.0,0,193306.0,864204.0,0,0
+6,Fully Paid,548746.0,Short Term,678.0,2559110.0,2,Rent,Debt Consolidation,18660.28,22.6,4.0,0,437171.0,555038.0,0,0
+7,Fully Paid,215952.0,Short Term,739.0,1454735.0,0,Rent,Debt Consolidation,39277.75,13.9,20.0,0,669560.0,1021460.0,0,0
+8,Fully Paid,541970.0,Short Term,726.0,1172718.0,10,Home Mortgage,Home Improvements,23568.55,23.2,23.0,0,60705.0,1634468.0,0,0
+9,Fully Paid,234124.0,Short Term,727.0,693234.0,10,Rent,Debt Consolidation,14211.24,24.7,10.0,1,28291.0,107052.0,1,0
+10,Fully Paid,449020.0,Long Term,726.0,1172718.0,9,Own Home,Debt Consolidation,18904.81,19.4,8.0,0,334533.0,428956.0,0,0
+11,Charged Off,653004.0,Long Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,14537.09,20.5,9.0,0,302309.0,413754.0,0,0
+12,Fully Paid,666204.0,Long Term,723.0,1821967.0,10,Home Mortgage,Debt Consolidation,17612.24,22.0,15.0,0,813694.0,2004618.0,0,0
+13,Fully Paid,66396.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,9898.81,27.1,23.0,1,9728.0,402380.0,1,0
+14,Fully Paid,390390.0,Short Term,747.0,1791738.0,8,Home Mortgage,Home Improvements,2478.55,22.7,6.0,0,121182.0,801812.0,0,0
+15,Charged Off,317108.0,Long Term,687.0,1133274.0,8,Rent,Debt Consolidation,9632.81,17.4,4.0,0,60287.0,126940.0,0,0
+16,Fully Paid,128238.0,Short Term,750.0,1354073.0,0,Rent,Debt Consolidation,13202.15,11.9,7.0,0,131936.0,458788.0,0,0
+17,Charged Off,153252.0,Short Term,714.0,1890690.0,2,Rent,Debt Consolidation,21900.35,15.7,12.0,0,891594.0,1081014.0,0,0
+18,Fully Paid,91894.0,Short Term,724.0,850383.0,10,Home Mortgage,Debt Consolidation,5860.74,17.5,7.0,0,95608.0,230626.0,0,0
+19,Fully Paid,244926.0,Long Term,704.0,1249953.0,4,Home Mortgage,Debt Consolidation,6812.26,14.4,6.0,1,143051.0,245014.0,0,1
+20,Fully Paid,465410.0,Long Term,688.0,1722654.0,3,Rent,Buy House,15647.45,22.3,7.0,0,107559.0,488356.0,0,0
+21,Fully Paid,443960.0,Short Term,749.0,1432391.0,2,Home Mortgage,Debt Consolidation,25186.21,14.0,15.0,0,342475.0,905344.0,0,0
+22,Fully Paid,107404.0,Short Term,726.0,1172718.0,10,Home Mortgage,Other,19238.07,43.7,5.0,0,28956.0,58014.0,0,0
+23,Fully Paid,334620.0,Short Term,729.0,1348620.0,2,Rent,Debt Consolidation,16913.99,20.0,16.0,0,313177.0,539616.0,0,0
+24,Charged Off,130174.0,Short Term,733.0,524609.0,0,Rent,Debt Consolidation,9311.71,15.4,7.0,1,130701.0,268818.0,1,0
+25,Fully Paid,333564.0,Long Term,725.0,1248338.0,10,Home Mortgage,Debt Consolidation,18205.04,14.6,18.0,0,300979.0,515526.0,0,0
+26,Fully Paid,109318.0,Long Term,726.0,1172718.0,10,Home Mortgage,Buy a Car,15524.9,22.7,9.0,0,77121.0,920524.0,0,0
+27,Fully Paid,125796.0,Short Term,745.0,1261068.0,5,Home Mortgage,Debt Consolidation,20597.33,24.5,13.0,0,684817.0,997414.0,0,0
+28,Fully Paid,161172.0,Short Term,720.0,796499.0,8,Home Mortgage,Debt Consolidation,3404.99,22.6,6.0,1,114095.0,170038.0,0,0
+29,Charged Off,259842.0,Short Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,11792.73,20.6,9.0,0,401584.0,708818.0,0,0
+30,Fully Paid,449108.0,Short Term,718.0,1454507.0,8,Home Mortgage,Debt Consolidation,13090.43,28.8,14.0,0,193990.0,458414.0,0,0
+31,Charged Off,688468.0,Long Term,682.0,1494616.0,0,Rent,Debt Consolidation,14697.07,16.6,8.0,0,343995.0,843854.0,0,0
+32,Fully Paid,210166.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,13084.54,14.0,10.0,0,314336.0,483362.0,0,0
+33,Fully Paid,327008.0,Long Term,726.0,1172718.0,4,Home Mortgage,Debt Consolidation,15419.45,16.7,13.0,0,268090.0,529738.0,0,0
+34,Fully Paid,311762.0,Long Term,680.0,2211657.0,4,Home Mortgage,Debt Consolidation,44601.74,14.5,11.0,0,213921.0,509652.0,0,0
+35,Fully Paid,266112.0,Short Term,750.0,919296.0,1,Rent,Debt Consolidation,12946.79,21.6,9.0,0,266266.0,485518.0,0,0
+36,Fully Paid,129712.0,Short Term,723.0,1465698.0,10,Own Home,Debt Consolidation,18199.15,19.4,34.0,1,45106.0,163218.0,0,0
+37,Fully Paid,287980.0,Short Term,737.0,1013954.0,0,Home Mortgage,Debt Consolidation,16138.6,18.6,11.0,0,223117.0,489302.0,0,0
+38,Fully Paid,439428.0,Short Term,710.0,1518024.0,8,Rent,Debt Consolidation,20923.56,17.8,11.0,0,209304.0,265716.0,0,0
+39,Charged Off,456808.0,Long Term,598.0,1096167.0,10,Own Home,Debt Consolidation,14341.39,14.1,8.0,0,161861.0,278058.0,0,0
+40,Fully Paid,518012.0,Long Term,719.0,1193010.0,10,Own Home,Debt Consolidation,22667.38,20.9,11.0,0,452770.0,1080926.0,0,0
+41,Charged Off,214874.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,20322.78,15.6,8.0,0,285589.0,402776.0,0,0
+42,Charged Off,374176.0,Long Term,652.0,1239199.0,10,Home Mortgage,Other,5163.25,36.6,10.0,0,126350.0,415602.0,0,0
+43,Charged Off,176198.0,Short Term,736.0,1902090.0,10,Home Mortgage,Debt Consolidation,28372.89,15.4,9.0,0,206872.0,620554.0,0,0
+44,Fully Paid,669372.0,Short Term,725.0,2158210.0,7,Home Mortgage,Debt Consolidation,34711.29,9.2,17.0,0,496052.0,638176.0,0,0
+45,Fully Paid,130922.0,Short Term,747.0,2261304.0,2,Rent,Debt Consolidation,9761.25,16.1,6.0,0,110428.0,235488.0,0,0
+46,Fully Paid,174548.0,Short Term,721.0,1620681.0,6,Rent,vacation,30522.74,15.0,7.0,0,40489.0,128832.0,0,0
+47,Charged Off,290224.0,Long Term,644.0,837045.0,7,Home Mortgage,Debt Consolidation,8230.99,18.3,11.0,0,176624.0,370480.0,0,0
+48,Fully Paid,718784.0,Long Term,672.0,1648915.0,10,Home Mortgage,Debt Consolidation,15664.74,12.0,10.0,0,252016.0,489610.0,0,0
+49,Fully Paid,152548.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,19164.54,12.1,22.0,0,120916.0,946000.0,0,0
+50,Fully Paid,602008.0,Long Term,741.0,2896721.0,2,Own Home,Debt Consolidation,48278.62,19.6,17.0,0,5246261.0,11887678.0,0,0
+51,Fully Paid,171248.0,Short Term,747.0,3035725.0,10,Home Mortgage,Debt Consolidation,42500.15,31.5,11.0,0,25460.0,151140.0,0,0
+52,Fully Paid,323466.0,Long Term,699.0,2048618.0,6,Home Mortgage,Debt Consolidation,27997.64,14.0,19.0,1,389994.0,743952.0,1,0
+53,Charged Off,751520.0,Long Term,726.0,1172718.0,6,Home Mortgage,Debt Consolidation,27204.01,20.5,19.0,0,483968.0,594880.0,0,0
+54,Fully Paid,289388.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,9758.4,16.0,12.0,0,439033.0,1735030.0,0,0
+55,Fully Paid,144562.0,Short Term,751.0,1060922.0,9,Home Mortgage,Debt Consolidation,19750.88,21.8,7.0,0,314773.0,1035408.0,0,0
+56,Fully Paid,211222.0,Short Term,694.0,947625.0,4,Rent,Debt Consolidation,8923.35,18.0,9.0,1,93081.0,397694.0,1,0
+57,Fully Paid,162360.0,Short Term,720.0,486875.0,10,Rent,Debt Consolidation,8560.83,15.1,16.0,0,129504.0,434654.0,0,0
+58,Fully Paid,311058.0,Long Term,675.0,1343167.0,10,Home Mortgage,Debt Consolidation,21378.8,31.4,11.0,0,247912.0,541596.0,0,0
+59,Fully Paid,767536.0,Long Term,724.0,6628720.0,10,Home Mortgage,Debt Consolidation,53747.96,29.5,13.0,0,1426425.0,2510112.0,0,0
+60,Charged Off,133034.0,Short Term,726.0,1172718.0,5,Own Home,Other,30520.46,13.8,23.0,0,113278.0,1561406.0,0,0
+61,Fully Paid,389884.0,Short Term,657.0,4776125.0,1,Home Mortgage,Debt Consolidation,42985.22,21.5,14.0,1,237500.0,562386.0,1,0
+62,Fully Paid,163966.0,Short Term,678.0,719910.0,9,Home Mortgage,Home Improvements,12778.26,6.4,9.0,1,66025.0,138248.0,0,1
+63,Fully Paid,433312.0,Short Term,736.0,1010401.0,7,Home Mortgage,Debt Consolidation,22228.86,16.1,19.0,0,201780.0,613228.0,0,0
+64,Fully Paid,89320.0,Short Term,748.0,1832075.0,0,Home Mortgage,Other,13312.92,19.0,6.0,0,127946.0,216260.0,0,0
+65,Fully Paid,392282.0,Long Term,688.0,974662.0,8,Home Mortgage,Debt Consolidation,10396.42,12.0,11.0,0,35663.0,242946.0,0,0
+66,Fully Paid,444620.0,Short Term,726.0,1172718.0,2,Home Mortgage,Home Improvements,15292.34,11.8,9.0,0,373350.0,522742.0,0,0
+67,Fully Paid,262988.0,Short Term,743.0,1340279.0,10,Rent,Debt Consolidation,9348.38,28.2,9.0,0,499548.0,681296.0,0,0
+68,Fully Paid,498586.0,Long Term,666.0,1351679.0,3,Rent,Other,32214.88,12.2,15.0,0,205637.0,433686.0,0,0
+69,Fully Paid,378334.0,Short Term,714.0,2120514.0,2,Rent,Debt Consolidation,35695.3,17.0,12.0,0,75335.0,413402.0,0,0
+70,Charged Off,194942.0,Short Term,742.0,1212238.0,1,Rent,Debt Consolidation,25254.99,27.4,13.0,1,176396.0,339834.0,1,0
+71,Fully Paid,731566.0,Short Term,705.0,1377443.0,10,Home Mortgage,Debt Consolidation,13429.96,20.4,18.0,0,563008.0,1070432.0,0,0
+72,Fully Paid,479358.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,22659.59,22.4,13.0,0,807462.0,1391302.0,0,0
+73,Fully Paid,336908.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,6652.47,29.1,8.0,0,277419.0,1119250.0,0,0
+74,Fully Paid,270116.0,Short Term,726.0,1172718.0,2,Home Mortgage,Debt Consolidation,15649.92,31.3,22.0,0,648850.0,3996322.0,0,0
+75,Fully Paid,156772.0,Short Term,748.0,1411966.0,6,Home Mortgage,Home Improvements,22591.38,18.0,10.0,0,38456.0,251548.0,0,0
+76,Fully Paid,306548.0,Short Term,726.0,1172718.0,6,Rent,Debt Consolidation,11157.37,17.5,10.0,0,200127.0,387508.0,0,0
+77,Fully Paid,432080.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,35360.14,17.9,22.0,0,160550.0,685982.0,0,0
+78,Fully Paid,158818.0,Short Term,731.0,315666.0,10,Own Home,Debt Consolidation,8522.83,31.3,13.0,1,260072.0,756646.0,0,1
+79,Fully Paid,453464.0,Short Term,712.0,895147.0,3,Rent,Debt Consolidation,17007.85,14.2,12.0,1,137845.0,222926.0,1,0
+80,Fully Paid,595672.0,Short Term,685.0,1305927.0,10,Rent,Debt Consolidation,13603.43,25.9,8.0,0,108148.0,129624.0,0,0
+81,Fully Paid,166672.0,Short Term,705.0,1048667.0,10,Home Mortgage,Debt Consolidation,16166.91,16.0,10.0,0,167656.0,267014.0,0,0
+82,Fully Paid,132792.0,Short Term,751.0,668990.0,4,Rent,Other,6132.25,14.7,5.0,0,61199.0,214742.0,0,0
+83,Charged Off,119504.0,Short Term,745.0,938315.0,2,Home Mortgage,Buy House,11807.17,13.0,11.0,0,32300.0,104170.0,0,0
+84,Fully Paid,33022.0,Short Term,723.0,1673007.0,7,Rent,Debt Consolidation,25234.47,23.3,13.0,0,125609.0,323928.0,0,0
+85,Fully Paid,448976.0,Short Term,742.0,4071396.0,10,Home Mortgage,Debt Consolidation,10348.16,19.7,7.0,0,486001.0,1253340.0,0,0
+86,Fully Paid,280588.0,Short Term,717.0,671080.0,3,Rent,Debt Consolidation,17447.89,10.0,10.0,1,168169.0,470360.0,1,0
+87,Charged Off,556336.0,Long Term,714.0,1402960.0,10,Home Mortgage,Debt Consolidation,19524.4,19.5,5.0,0,317338.0,389246.0,0,0
+88,Fully Paid,541310.0,Short Term,722.0,1682982.0,1,Home Mortgage,Debt Consolidation,52733.36,17.9,13.0,0,356288.0,619432.0,0,0
+89,Fully Paid,311872.0,Long Term,680.0,1063810.0,6,Home Mortgage,Debt Consolidation,28191.06,12.2,10.0,0,391723.0,591338.0,0,0
+90,Fully Paid,340604.0,Long Term,618.0,928701.0,10,Home Mortgage,Debt Consolidation,21205.52,14.4,5.0,0,291137.0,368808.0,0,0
+91,Charged Off,765160.0,Long Term,719.0,2643242.0,7,Home Mortgage,Debt Consolidation,34582.47,20.5,19.0,0,249755.0,489302.0,0,0
+92,Charged Off,109802.0,Short Term,745.0,474069.0,0,Rent,Debt Consolidation,1497.39,11.0,2.0,0,91048.0,186604.0,0,0
+93,Charged Off,349756.0,Long Term,737.0,2491945.0,3,Rent,Debt Consolidation,23258.28,21.5,7.0,0,270332.0,660396.0,0,0
+94,Fully Paid,545886.0,Short Term,718.0,1565182.0,7,Rent,Debt Consolidation,41477.0,15.0,16.0,0,80465.0,296714.0,0,0
+95,Fully Paid,354046.0,Long Term,676.0,1815469.0,10,Home Mortgage,Home Improvements,5522.16,13.0,6.0,0,20976.0,70840.0,0,0
+96,Fully Paid,472098.0,Long Term,692.0,2316575.0,10,Rent,Debt Consolidation,24517.22,28.2,9.0,0,454176.0,968506.0,0,0
+97,Charged Off,509586.0,Long Term,678.0,1816001.0,2,Rent,Debt Consolidation,26180.67,13.9,32.0,1,115672.0,319638.0,1,0
+98,Fully Paid,218988.0,Short Term,740.0,775409.0,4,Home Mortgage,Debt Consolidation,8141.88,14.9,5.0,0,100206.0,186230.0,0,0
+99,Fully Paid,176462.0,Short Term,726.0,1172718.0,10,Home Mortgage,Home Improvements,14223.59,26.5,7.0,0,171703.0,1080552.0,0,0
+100,Fully Paid,328262.0,Short Term,746.0,1133958.0,1,Rent,Debt Consolidation,20411.32,10.2,10.0,0,229463.0,472758.0,0,0
+101,Charged Off,663168.0,Long Term,732.0,1527296.0,2,Home Mortgage,Debt Consolidation,22145.83,17.0,8.0,0,331075.0,543774.0,0,0
+102,Fully Paid,338030.0,Short Term,726.0,1172718.0,8,Rent,Debt Consolidation,12144.04,16.9,9.0,0,321157.0,419232.0,0,0
+103,Charged Off,446094.0,Short Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,30975.51,7.0,9.0,0,76.0,85998.0,0,0
+104,Fully Paid,133078.0,Short Term,709.0,804460.0,0,Rent,Debt Consolidation,9117.34,12.5,10.0,0,111568.0,243760.0,0,0
+105,Fully Paid,278058.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,18706.64,15.9,10.0,0,207423.0,1171566.0,0,0
+106,Fully Paid,752290.0,Long Term,649.0,2320375.0,3,Rent,Debt Consolidation,39252.86,13.4,13.0,0,431053.0,513502.0,0,0
+107,Fully Paid,105556.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,18234.11,20.7,13.0,0,220894.0,846890.0,0,0
+108,Fully Paid,262724.0,Long Term,695.0,1229072.0,4,Rent,Debt Consolidation,21508.76,21.8,5.0,0,337725.0,394218.0,0,0
+109,Fully Paid,54076.0,Short Term,744.0,485697.0,1,Rent,Debt Consolidation,2655.06,9.0,6.0,0,19988.0,282260.0,0,0
+110,Charged Off,552882.0,Long Term,686.0,1262151.0,10,Rent,Debt Consolidation,23770.71,23.4,13.0,0,299706.0,694056.0,0,0
+111,Fully Paid,257400.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,13740.99,15.7,11.0,0,191159.0,274626.0,0,0
+112,Fully Paid,462088.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,17759.3,14.8,13.0,0,627418.0,1603712.0,0,0
+113,Fully Paid,460152.0,Short Term,726.0,1172718.0,10,Own Home,Debt Consolidation,21330.92,20.5,13.0,0,1220978.0,5396072.0,0,0
+114,Charged Off,402534.0,Short Term,741.0,3090160.0,9,Rent,Debt Consolidation,23639.8,19.6,15.0,0,691467.0,1332188.0,0,0
+115,Fully Paid,129844.0,Short Term,726.0,1172718.0,0,Rent,Debt Consolidation,16120.17,14.2,10.0,0,110618.0,212058.0,0,0
+116,Charged Off,232716.0,Short Term,637.0,1049427.0,5,Rent,Home Improvements,12942.99,9.5,20.0,0,226442.0,389026.0,0,0
+117,Fully Paid,286462.0,Long Term,719.0,1380426.0,10,Home Mortgage,Debt Consolidation,27378.62,15.7,10.0,0,177916.0,335522.0,0,0
+118,Fully Paid,223256.0,Short Term,740.0,804916.0,7,Home Mortgage,Debt Consolidation,6774.64,34.4,13.0,0,308142.0,587818.0,0,0
+119,Fully Paid,348832.0,Long Term,704.0,497306.0,0,Rent,Debt Consolidation,3257.36,13.0,4.0,0,90022.0,167860.0,0,0
+120,Fully Paid,537878.0,Short Term,743.0,1296807.0,1,Home Mortgage,Debt Consolidation,24963.53,18.4,12.0,0,249223.0,515306.0,0,0
+121,Fully Paid,196460.0,Short Term,746.0,942590.0,2,Home Mortgage,Debt Consolidation,15160.1,23.5,8.0,0,138700.0,410718.0,0,0
+122,Fully Paid,214786.0,Short Term,723.0,883329.0,9,Home Mortgage,Debt Consolidation,11924.97,14.3,5.0,0,154755.0,193314.0,0,0
+123,Fully Paid,109538.0,Short Term,697.0,567606.0,7,Home Mortgage,Debt Consolidation,5770.68,14.3,10.0,0,86716.0,151206.0,0,0
+124,Fully Paid,259116.0,Short Term,726.0,1172718.0,6,Home Mortgage,Other,21678.81,31.4,9.0,0,254030.0,720918.0,0,0
+125,Fully Paid,117986.0,Short Term,694.0,1886890.0,5,Rent,Debt Consolidation,3207.77,12.0,7.0,0,80408.0,351296.0,0,0
+126,Fully Paid,133804.0,Short Term,725.0,1386734.0,4,Home Mortgage,Business Loan,16756.48,13.6,11.0,0,105450.0,260898.0,0,0
+127,Fully Paid,87846.0,Short Term,736.0,625879.0,4,Own Home,Debt Consolidation,6988.96,50.1,16.0,0,96330.0,714978.0,0,0
+128,Charged Off,332684.0,Long Term,722.0,881087.0,10,Home Mortgage,Debt Consolidation,12702.26,14.5,9.0,0,472226.0,640266.0,0,0
+129,Fully Paid,190498.0,Short Term,706.0,892164.0,1,Rent,Debt Consolidation,8996.12,13.2,6.0,0,88160.0,117744.0,0,0
+130,Fully Paid,448822.0,Short Term,741.0,1027444.0,1,Home Mortgage,Debt Consolidation,21576.4,33.1,8.0,0,669028.0,981838.0,0,0
+131,Fully Paid,229086.0,Short Term,715.0,787626.0,8,Rent,Debt Consolidation,6543.79,23.9,7.0,1,71231.0,152460.0,1,0
+132,Charged Off,393558.0,Long Term,678.0,2317392.0,2,Own Home,Debt Consolidation,22015.3,14.7,8.0,0,124184.0,145552.0,0,0
+133,Fully Paid,151954.0,Short Term,707.0,562419.0,7,Rent,Debt Consolidation,14341.77,12.5,9.0,1,107692.0,219142.0,0,1
+134,Fully Paid,254562.0,Short Term,738.0,669123.0,6,Rent,Debt Consolidation,13549.66,17.5,13.0,0,261383.0,743600.0,0,0
+135,Charged Off,156178.0,Short Term,716.0,1124040.0,3,Rent,Other,8617.64,12.0,9.0,1,6194.0,108790.0,0,0
+136,Fully Paid,645018.0,Long Term,737.0,2692471.0,10,Home Mortgage,Debt Consolidation,40386.97,24.0,21.0,0,640376.0,1468302.0,0,0
+137,Fully Paid,605726.0,Short Term,748.0,3609145.0,10,Home Mortgage,Debt Consolidation,43610.7,23.0,10.0,0,378423.0,475772.0,0,0
+138,Fully Paid,174460.0,Short Term,723.0,1318429.0,3,Own Home,Other,10547.47,15.0,14.0,0,55176.0,443586.0,0,0
+139,Fully Paid,768394.0,Long Term,651.0,1651252.0,2,Home Mortgage,Debt Consolidation,19264.67,29.2,6.0,0,421420.0,559592.0,0,0
+140,Fully Paid,314226.0,Long Term,723.0,2638454.0,1,Home Mortgage,Other,34959.43,18.2,10.0,0,662815.0,969034.0,0,0
+141,Fully Paid,64966.0,Short Term,723.0,1224968.0,10,Home Mortgage,Other,23172.21,44.0,16.0,0,858154.0,1344574.0,0,0
+142,Fully Paid,300366.0,Short Term,730.0,833188.0,10,Home Mortgage,Debt Consolidation,13400.32,17.9,7.0,0,179721.0,338932.0,0,0
+143,Fully Paid,263648.0,Short Term,736.0,1138518.0,9,Rent,Debt Consolidation,12808.28,15.0,6.0,1,61788.0,202092.0,1,0
+144,Fully Paid,716958.0,Short Term,718.0,1934960.0,9,Home Mortgage,Home Improvements,31765.72,10.0,9.0,0,168815.0,228624.0,0,0
+145,Charged Off,459602.0,Long Term,712.0,982870.0,6,Home Mortgage,Debt Consolidation,12859.01,15.6,6.0,0,390621.0,468204.0,0,0
+146,Fully Paid,405856.0,Long Term,708.0,1155751.0,10,Rent,Debt Consolidation,32264.85,22.7,13.0,0,338181.0,594198.0,0,0
+147,Charged Off,547580.0,Short Term,710.0,1125978.0,0,Rent,Debt Consolidation,9758.4,13.8,6.0,0,435328.0,790064.0,0,0
+148,Fully Paid,175428.0,Short Term,698.0,1136238.0,2,Rent,Buy a Car,2594.45,30.5,4.0,0,70832.0,96470.0,0,0
+149,Fully Paid,216370.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,6446.89,8.2,10.0,0,239970.0,551320.0,0,0
+150,Fully Paid,234806.0,Long Term,689.0,866799.0,9,Home Mortgage,Debt Consolidation,3676.69,14.1,4.0,1,86051.0,167750.0,1,0
+151,Charged Off,25806.0,Short Term,685.0,742976.0,8,Rent,Other,6377.16,7.1,5.0,0,8189.0,47432.0,0,0
+152,Fully Paid,332706.0,Short Term,735.0,957790.0,10,Home Mortgage,Debt Consolidation,10855.08,6.6,9.0,0,220571.0,498828.0,0,0
+153,Fully Paid,333124.0,Short Term,703.0,1300246.0,10,Home Mortgage,Debt Consolidation,13110.76,14.6,10.0,0,173128.0,384032.0,0,0
+154,Fully Paid,441276.0,Short Term,747.0,2305669.0,10,Home Mortgage,Debt Consolidation,24017.52,17.8,14.0,0,678851.0,2245848.0,0,0
+155,Fully Paid,327756.0,Short Term,707.0,830319.0,5,Rent,Debt Consolidation,9271.81,15.8,6.0,0,245727.0,292732.0,0,0
+156,Fully Paid,476586.0,Short Term,707.0,1403207.0,7,Rent,Debt Consolidation,18241.52,13.4,6.0,0,91580.0,214654.0,0,0
+157,Fully Paid,263450.0,Short Term,726.0,1172718.0,10,Home Mortgage,Home Improvements,7319.18,16.9,17.0,1,169100.0,621610.0,1,0
+158,Fully Paid,261800.0,Short Term,738.0,1488536.0,4,Rent,Debt Consolidation,21087.72,16.5,8.0,0,178220.0,274780.0,0,0
+159,Charged Off,433136.0,Long Term,682.0,1178323.0,9,Home Mortgage,Debt Consolidation,17969.44,17.6,16.0,0,355471.0,426514.0,0,0
+160,Charged Off,322124.0,Long Term,716.0,1020034.0,9,Home Mortgage,Debt Consolidation,16915.32,17.8,10.0,0,205865.0,341506.0,0,0
+161,Charged Off,107536.0,Short Term,726.0,1172718.0,0,Rent,Debt Consolidation,22176.61,13.5,7.0,0,107483.0,197868.0,0,0
+162,Fully Paid,355410.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,13237.11,13.7,6.0,1,297293.0,397518.0,1,0
+163,Fully Paid,437668.0,Short Term,749.0,2683693.0,5,Home Mortgage,Debt Consolidation,5993.55,21.5,7.0,0,326496.0,562584.0,0,0
+164,Fully Paid,377322.0,Short Term,740.0,1288162.0,0,Rent,Debt Consolidation,17068.08,36.3,8.0,0,358549.0,494824.0,0,0
+165,Fully Paid,606122.0,Long Term,693.0,1395911.0,10,Home Mortgage,Debt Consolidation,24079.46,22.5,8.0,1,168378.0,332156.0,1,0
+166,Fully Paid,520982.0,Long Term,724.0,1031111.0,10,Rent,Debt Consolidation,17013.17,15.0,12.0,0,267976.0,475178.0,0,0
+167,Charged Off,304590.0,Short Term,746.0,1202510.0,1,Rent,Debt Consolidation,28960.18,19.7,9.0,0,314830.0,619982.0,0,0
+168,Charged Off,472362.0,Short Term,732.0,1075058.0,5,Home Mortgage,Debt Consolidation,22218.03,16.1,13.0,0,392369.0,542146.0,0,0
+169,Fully Paid,149402.0,Short Term,727.0,841491.0,1,Rent,Debt Consolidation,18723.17,8.6,14.0,0,163571.0,539572.0,0,0
+170,Fully Paid,150458.0,Short Term,737.0,1330513.0,5,Home Mortgage,Debt Consolidation,4446.19,13.9,13.0,0,129827.0,316492.0,0,0
+171,Fully Paid,268268.0,Short Term,726.0,1172718.0,5,Rent,Debt Consolidation,6896.62,16.0,10.0,0,207860.0,429044.0,0,0
+172,Fully Paid,341352.0,Long Term,712.0,751108.0,0,Home Mortgage,Debt Consolidation,10327.83,13.3,11.0,0,81377.0,110858.0,0,0
+173,Charged Off,432256.0,Short Term,737.0,2053216.0,10,Home Mortgage,Debt Consolidation,16305.8,17.4,11.0,0,316331.0,638088.0,0,0
+174,Fully Paid,301114.0,Long Term,645.0,825246.0,0,Rent,Debt Consolidation,5948.71,9.0,10.0,1,59888.0,372746.0,1,0
+175,Fully Paid,79398.0,Short Term,718.0,761824.0,2,Rent,Debt Consolidation,13459.03,15.5,13.0,0,159315.0,317526.0,0,0
+176,Fully Paid,171842.0,Short Term,724.0,612199.0,2,Rent,Debt Consolidation,6734.17,11.8,12.0,0,330714.0,558228.0,0,0
+177,Fully Paid,329120.0,Long Term,715.0,1515896.0,5,Home Mortgage,Debt Consolidation,21601.48,13.0,19.0,0,332576.0,683980.0,0,0
+178,Fully Paid,486288.0,Long Term,707.0,1654577.0,3,Home Mortgage,Debt Consolidation,22612.47,14.9,18.0,0,407835.0,821282.0,0,0
+179,Fully Paid,104368.0,Short Term,691.0,853974.0,1,Rent,Debt Consolidation,22559.08,20.0,10.0,1,116223.0,195580.0,1,0
+180,Fully Paid,205854.0,Short Term,717.0,1898860.0,10,Home Mortgage,Debt Consolidation,31647.73,22.3,6.0,0,195738.0,251284.0,0,0
+181,Charged Off,96690.0,Short Term,673.0,280136.0,10,Home Mortgage,Debt Consolidation,4598.76,17.8,4.0,0,179037.0,329582.0,0,0
+182,Fully Paid,111408.0,Short Term,733.0,1154592.0,10,Rent,Debt Consolidation,18762.12,20.4,9.0,0,283936.0,465674.0,0,0
+183,Fully Paid,284152.0,Short Term,700.0,1054519.0,10,Home Mortgage,Debt Consolidation,15202.66,14.0,12.0,0,182780.0,366146.0,0,0
+184,Fully Paid,149116.0,Short Term,700.0,1380160.0,7,Home Mortgage,Home Improvements,18171.98,10.8,5.0,0,95171.0,112574.0,0,0
+185,Fully Paid,396792.0,Long Term,731.0,745997.0,10,Own Home,Debt Consolidation,7522.29,18.7,11.0,0,295944.0,835802.0,0,0
+186,Fully Paid,128832.0,Short Term,719.0,1483520.0,10,Rent,Debt Consolidation,8381.85,30.9,4.0,0,36708.0,64372.0,0,0
+187,Fully Paid,152790.0,Short Term,743.0,678661.0,10,Rent,Debt Consolidation,4450.94,14.0,5.0,1,119510.0,229086.0,0,0
+188,Charged Off,292292.0,Short Term,741.0,666805.0,2,Rent,Business Loan,6223.45,15.0,7.0,0,81016.0,198352.0,0,0
+189,Fully Paid,449460.0,Long Term,658.0,1057768.0,3,Rent,Debt Consolidation,19039.71,16.3,8.0,0,367992.0,510290.0,0,0
+190,Fully Paid,86724.0,Short Term,716.0,580469.0,4,Home Mortgage,Debt Consolidation,7352.62,4.9,6.0,0,109687.0,182226.0,0,0
+191,Fully Paid,67166.0,Long Term,726.0,1172718.0,6,Rent,Debt Consolidation,42060.68,27.4,11.0,0,679725.0,927014.0,0,0
+192,Charged Off,223850.0,Short Term,726.0,1172718.0,1,Rent,Debt Consolidation,7684.74,17.3,8.0,0,87609.0,301928.0,0,0
+193,Fully Paid,763840.0,Short Term,742.0,1639776.0,10,Home Mortgage,Debt Consolidation,23640.18,21.4,9.0,0,606461.0,1141800.0,0,0
+194,Charged Off,83864.0,Short Term,699.0,564414.0,0,Rent,Debt Consolidation,11711.6,11.9,12.0,0,18639.0,107932.0,0,0
+195,Charged Off,142846.0,Short Term,750.0,654227.0,10,Home Mortgage,Debt Consolidation,16246.71,17.2,9.0,0,53694.0,112662.0,0,0
+196,Charged Off,551980.0,Long Term,720.0,1906840.0,3,Own Home,Business Loan,33528.54,22.6,6.0,0,334780.0,441518.0,0,0
+197,Fully Paid,504658.0,Short Term,685.0,3874100.0,10,Rent,Debt Consolidation,4100.2,16.0,7.0,0,167827.0,397408.0,0,0
+198,Charged Off,177628.0,Long Term,709.0,843771.0,5,Rent,Debt Consolidation,5027.59,10.3,8.0,0,94221.0,172062.0,0,0
+199,Fully Paid,398464.0,Long Term,715.0,975004.0,10,Home Mortgage,Debt Consolidation,15356.37,20.5,13.0,0,326857.0,650276.0,0,0
+200,Fully Paid,732028.0,Short Term,737.0,1724193.0,10,Home Mortgage,Debt Consolidation,32041.22,18.5,14.0,0,628425.0,1017698.0,0,0
+201,Fully Paid,660132.0,Long Term,722.0,1634323.0,10,Home Mortgage,Debt Consolidation,18931.03,16.7,17.0,1,452713.0,927762.0,0,1
+202,Fully Paid,25894.0,Short Term,748.0,1024727.0,8,Rent,Debt Consolidation,12723.73,10.2,12.0,0,30590.0,492008.0,0,0
+203,Fully Paid,553366.0,Short Term,726.0,1172718.0,0,Home Mortgage,Home Improvements,35698.91,21.5,17.0,0,305349.0,657184.0,0,0
+204,Fully Paid,77132.0,Short Term,657.0,2093762.0,5,Rent,Medical Bills,47284.16,15.9,13.0,0,588449.0,703142.0,0,0
+205,Fully Paid,128634.0,Short Term,695.0,463657.0,4,Home Mortgage,Other,9891.4,8.7,9.0,0,76133.0,134178.0,0,0
+206,Fully Paid,429264.0,Short Term,735.0,1816571.0,8,Own Home,Debt Consolidation,34060.73,11.1,20.0,0,387353.0,1520398.0,0,0
+207,Fully Paid,131032.0,Short Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,2696.86,9.9,8.0,0,77520.0,255684.0,0,0
+208,Charged Off,427988.0,Long Term,729.0,1624082.0,10,Rent,Debt Consolidation,3640.78,19.2,5.0,0,132088.0,378576.0,0,0
+209,Fully Paid,204248.0,Short Term,737.0,779893.0,5,Home Mortgage,Debt Consolidation,10788.39,23.0,10.0,0,225663.0,588522.0,0,0
+210,Fully Paid,653334.0,Short Term,722.0,2068891.0,10,Own Home,Debt Consolidation,29309.21,21.3,9.0,0,294291.0,548724.0,0,0
+211,Fully Paid,226336.0,Short Term,724.0,1409610.0,6,Rent,Debt Consolidation,6331.56,17.0,5.0,1,79192.0,230428.0,0,1
+212,Charged Off,216612.0,Short Term,722.0,897959.0,7,Own Home,Debt Consolidation,19006.65,10.7,14.0,0,321670.0,955042.0,0,0
+213,Charged Off,218130.0,Short Term,728.0,602832.0,5,Home Mortgage,Debt Consolidation,9142.8,17.6,10.0,0,202616.0,239888.0,0,0
+214,Fully Paid,449768.0,Long Term,726.0,1172718.0,2,Home Mortgage,Debt Consolidation,31269.06,22.2,10.0,0,403028.0,1515118.0,0,0
+215,Fully Paid,431288.0,Short Term,738.0,1378165.0,10,Home Mortgage,Debt Consolidation,33879.85,28.8,15.0,1,280687.0,409838.0,1,0
+216,Fully Paid,541794.0,Long Term,674.0,1538145.0,8,Home Mortgage,Other,12766.67,33.7,9.0,0,300029.0,557634.0,0,0
+217,Charged Off,448404.0,Short Term,746.0,1166220.0,10,Home Mortgage,Debt Consolidation,19339.72,14.9,17.0,0,306907.0,504064.0,0,0
+218,Fully Paid,117854.0,Short Term,709.0,848958.0,10,Home Mortgage,Debt Consolidation,15069.09,15.4,10.0,0,404073.0,609994.0,0,0
+219,Fully Paid,537196.0,Long Term,654.0,2551643.0,10,Home Mortgage,Debt Consolidation,55072.83,27.0,16.0,0,734597.0,1466542.0,0,0
+220,Fully Paid,196108.0,Short Term,715.0,865602.0,10,Home Mortgage,Debt Consolidation,11397.34,18.8,11.0,1,185478.0,259402.0,1,0
+221,Fully Paid,337656.0,Short Term,744.0,1205322.0,10,Home Mortgage,Debt Consolidation,12254.05,11.4,6.0,0,41876.0,119416.0,0,0
+222,Charged Off,441628.0,Short Term,726.0,1172718.0,0,Rent,Debt Consolidation,34469.61,16.0,5.0,0,58482.0,90530.0,0,0
+223,Fully Paid,448272.0,Long Term,716.0,1045285.0,10,Home Mortgage,Debt Consolidation,16289.08,23.0,7.0,0,115558.0,157432.0,0,0
+224,Charged Off,581592.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,20455.02,17.5,13.0,0,363983.0,629970.0,0,0
+225,Charged Off,63140.0,Short Term,733.0,233681.0,0,Rent,Debt Consolidation,2122.49,14.9,3.0,0,58463.0,119592.0,0,0
+226,Fully Paid,223344.0,Short Term,719.0,1157328.0,7,Rent,Debt Consolidation,24111.0,17.4,8.0,0,100624.0,236830.0,0,0
+227,Fully Paid,436172.0,Long Term,744.0,1054747.0,4,Home Mortgage,Home Improvements,13623.76,22.2,19.0,0,387315.0,2156110.0,0,0
+228,Fully Paid,157146.0,Short Term,735.0,678566.0,6,Own Home,Debt Consolidation,12610.11,16.5,7.0,0,116793.0,426602.0,0,0
+229,Fully Paid,178046.0,Short Term,716.0,2815781.0,10,Home Mortgage,Debt Consolidation,18537.35,22.5,9.0,0,486248.0,578666.0,0,0
+230,Fully Paid,216194.0,Short Term,720.0,1077528.0,10,Home Mortgage,Debt Consolidation,8081.46,13.7,5.0,1,96463.0,174240.0,1,0
+231,Fully Paid,430100.0,Short Term,739.0,1448655.0,10,Home Mortgage,Debt Consolidation,23782.11,15.4,13.0,0,400178.0,716188.0,0,0
+232,Fully Paid,562760.0,Short Term,738.0,1263652.0,3,Rent,Debt Consolidation,12426.0,13.1,8.0,0,478021.0,684178.0,0,0
+233,Fully Paid,215006.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,22042.47,29.1,10.0,0,387714.0,464266.0,0,0
+234,Fully Paid,325622.0,Short Term,726.0,1172718.0,3,Rent,Debt Consolidation,8831.01,15.2,25.0,0,144172.0,415250.0,0,0
+235,Fully Paid,118998.0,Short Term,686.0,576327.0,10,Home Mortgage,Debt Consolidation,10037.7,11.1,11.0,0,320834.0,518144.0,0,0
+236,Fully Paid,266926.0,Long Term,725.0,1632936.0,10,Home Mortgage,Debt Consolidation,20139.43,16.0,10.0,1,119586.0,422180.0,1,0
+237,Charged Off,224796.0,Short Term,681.0,573819.0,1,Own Home,Business Loan,4925.37,11.4,6.0,0,115862.0,296780.0,0,0
+238,Fully Paid,401852.0,Long Term,725.0,1263785.0,10,Home Mortgage,Debt Consolidation,15059.97,15.3,6.0,1,58482.0,101376.0,1,0
+239,Fully Paid,309540.0,Short Term,726.0,1172718.0,9,Home Mortgage,Debt Consolidation,26895.83,16.5,12.0,0,79686.0,262108.0,0,0
+240,Fully Paid,273482.0,Long Term,693.0,1115699.0,10,Home Mortgage,Debt Consolidation,13667.27,15.9,6.0,0,65683.0,109758.0,0,0
+241,Fully Paid,323708.0,Short Term,723.0,1640061.0,3,Rent,Debt Consolidation,21047.44,21.2,14.0,0,546782.0,924242.0,0,0
+242,Charged Off,88528.0,Short Term,696.0,993833.0,2,Rent,Debt Consolidation,2550.94,20.8,11.0,0,38532.0,241142.0,0,0
+243,Fully Paid,249568.0,Short Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,12209.21,14.1,17.0,0,300048.0,569536.0,0,0
+244,Fully Paid,416834.0,Short Term,726.0,1172718.0,8,Own Home,Debt Consolidation,17525.79,9.7,13.0,0,219849.0,587884.0,0,0
+245,Fully Paid,110902.0,Short Term,697.0,2202917.0,5,Rent,Debt Consolidation,30290.18,11.5,20.0,0,104291.0,377366.0,0,0
+246,Fully Paid,132022.0,Short Term,727.0,855095.0,7,Rent,Debt Consolidation,14180.08,17.6,10.0,0,130131.0,251108.0,0,0
+247,Fully Paid,277948.0,Short Term,707.0,1118948.0,10,Rent,Debt Consolidation,29465.58,15.7,11.0,1,66994.0,129294.0,1,0
+248,Fully Paid,219186.0,Short Term,748.0,2233697.0,3,Home Mortgage,Debt Consolidation,14779.72,20.6,11.0,0,281618.0,939708.0,0,0
+249,Fully Paid,178684.0,Short Term,739.0,1176727.0,2,Rent,Debt Consolidation,19514.14,20.7,11.0,0,192337.0,281534.0,0,0
+250,Fully Paid,108526.0,Short Term,743.0,1312045.0,7,Home Mortgage,Other,7380.17,19.0,10.0,1,71953.0,108504.0,0,0
+251,Fully Paid,222156.0,Short Term,726.0,1172718.0,10,Home Mortgage,Home Improvements,16960.54,15.9,7.0,0,170563.0,339922.0,0,0
+252,Fully Paid,205524.0,Short Term,676.0,1167132.0,10,Home Mortgage,Debt Consolidation,18479.59,22.5,19.0,0,592249.0,864754.0,0,0
+253,Charged Off,134618.0,Short Term,746.0,968905.0,0,Rent,Debt Consolidation,16196.74,17.0,17.0,0,202540.0,1061170.0,0,0
+254,Fully Paid,94974.0,Short Term,694.0,301093.0,1,Rent,Debt Consolidation,4842.53,9.3,7.0,0,162564.0,341000.0,0,0
+255,Fully Paid,523248.0,Long Term,668.0,1468662.0,8,Own Home,Debt Consolidation,39286.68,14.8,9.0,0,621585.0,906466.0,0,0
+256,Fully Paid,588544.0,Long Term,687.0,1491158.0,5,Home Mortgage,Debt Consolidation,15284.36,16.3,17.0,0,428963.0,1118722.0,0,0
+257,Fully Paid,319330.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,35750.4,42.4,17.0,1,381995.0,785598.0,0,1
+258,Fully Paid,391468.0,Short Term,742.0,629850.0,0,Rent,Debt Consolidation,10025.16,17.8,8.0,0,57570.0,169620.0,0,0
+259,Fully Paid,628474.0,Long Term,676.0,1235741.0,10,Home Mortgage,Debt Consolidation,26568.46,26.5,12.0,0,252871.0,603702.0,0,0
+260,Charged Off,513524.0,Long Term,659.0,1115718.0,4,Rent,Debt Consolidation,28543.7,12.5,11.0,0,469604.0,849618.0,0,0
+261,Charged Off,765006.0,Long Term,736.0,6606775.0,7,Own Home,Debt Consolidation,5780.94,24.1,11.0,0,369170.0,1978966.0,0,0
+262,Fully Paid,130328.0,Short Term,740.0,1707207.0,2,Rent,Buy a Car,12647.73,23.0,12.0,0,445721.0,757834.0,0,0
+263,Fully Paid,268664.0,Long Term,718.0,1160178.0,0,Rent,Debt Consolidation,16049.11,13.3,9.0,0,318839.0,818576.0,0,0
+264,Fully Paid,753368.0,Short Term,726.0,1172718.0,7,Home Mortgage,Other,75878.02,43.3,19.0,0,834784.0,1378872.0,0,0
+265,Fully Paid,448712.0,Long Term,696.0,1264602.0,10,Home Mortgage,Debt Consolidation,33722.91,16.7,28.0,1,328054.0,895906.0,0,1
+266,Fully Paid,334686.0,Short Term,742.0,963490.0,10,Home Mortgage,Debt Consolidation,12284.45,20.5,15.0,0,406220.0,863060.0,0,0
+267,Fully Paid,125004.0,Short Term,726.0,1172718.0,5,Rent,Other,27041.75,19.5,18.0,1,247342.0,667568.0,1,0
+268,Charged Off,242616.0,Short Term,726.0,1172718.0,4,Home Mortgage,Debt Consolidation,41396.25,18.0,9.0,0,522690.0,745338.0,0,0
+269,Fully Paid,175076.0,Short Term,742.0,748486.0,8,Rent,Other,7983.8,36.4,7.0,0,184490.0,240856.0,0,0
+270,Charged Off,107712.0,Short Term,744.0,576688.0,10,Rent,Debt Consolidation,7256.67,13.5,15.0,0,263321.0,671572.0,0,0
+271,Fully Paid,155210.0,Short Term,744.0,1053265.0,6,Home Mortgage,Debt Consolidation,17466.51,13.3,8.0,0,492841.0,640464.0,0,0
+272,Fully Paid,712404.0,Long Term,618.0,6283072.0,2,Rent,Other,20262.93,14.7,10.0,1,135641.0,358556.0,1,0
+273,Fully Paid,753610.0,Long Term,676.0,2212835.0,10,Home Mortgage,Debt Consolidation,35221.06,17.2,17.0,0,579158.0,1086866.0,0,0
+274,Fully Paid,154748.0,Short Term,748.0,1603657.0,8,Home Mortgage,Other,8539.55,29.2,11.0,0,9842.0,1425820.0,0,0
+275,Charged Off,251416.0,Short Term,720.0,1057293.0,6,Home Mortgage,Buy a Car,13480.5,9.0,12.0,0,138377.0,222838.0,0,0
+276,Fully Paid,764390.0,Long Term,705.0,1603220.0,2,Home Mortgage,Debt Consolidation,34869.75,30.6,15.0,0,425448.0,1089902.0,0,0
+277,Charged Off,215006.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,20639.13,11.9,9.0,0,76551.0,284130.0,0,0
+278,Fully Paid,616902.0,Long Term,647.0,1405772.0,0,Own Home,Debt Consolidation,18626.27,17.9,4.0,0,317338.0,433818.0,0,0
+279,Fully Paid,447788.0,Short Term,726.0,1172718.0,2,Home Mortgage,Debt Consolidation,6497.05,21.2,5.0,0,806379.0,2074886.0,0,0
+280,Fully Paid,170962.0,Short Term,710.0,598082.0,6,Rent,Debt Consolidation,7426.15,12.8,14.0,0,117211.0,622534.0,0,0
+281,Charged Off,340362.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,22936.8,23.3,19.0,0,427025.0,1242340.0,0,0
+282,Fully Paid,332222.0,Short Term,746.0,891119.0,3,Rent,Debt Consolidation,11733.07,23.8,9.0,0,293683.0,717420.0,0,0
+283,Fully Paid,440132.0,Long Term,676.0,1292380.0,6,Home Mortgage,Debt Consolidation,4157.2,15.6,3.0,0,150822.0,219956.0,0,0
+284,Charged Off,403414.0,Long Term,726.0,1172718.0,6,Home Mortgage,Debt Consolidation,14597.13,20.7,11.0,0,71212.0,91916.0,0,0
+285,Fully Paid,112574.0,Short Term,729.0,1555416.0,10,Home Mortgage,vacation,10706.5,13.7,13.0,0,86507.0,770440.0,0,0
+286,Fully Paid,88198.0,Short Term,741.0,825968.0,0,Home Mortgage,Debt Consolidation,3407.08,14.2,9.0,0,112727.0,725098.0,0,0
+287,Fully Paid,764544.0,Long Term,703.0,1697859.0,6,Home Mortgage,Home Improvements,17685.96,25.5,10.0,1,300789.0,657118.0,1,0
+288,Fully Paid,224642.0,Short Term,741.0,1056039.0,2,Rent,Debt Consolidation,14080.33,38.5,7.0,0,252320.0,1047200.0,0,0
+289,Fully Paid,446336.0,Long Term,683.0,1117865.0,7,Home Mortgage,Debt Consolidation,7573.59,15.9,4.0,1,148960.0,238898.0,1,0
+290,Charged Off,447656.0,Short Term,732.0,1585113.0,10,Home Mortgage,Debt Consolidation,20342.16,17.4,8.0,0,309054.0,503316.0,0,0
+291,Charged Off,261910.0,Short Term,675.0,1438509.0,6,Own Home,Other,24334.82,15.6,9.0,1,74214.0,767272.0,1,0
+292,Fully Paid,746372.0,Long Term,715.0,2302116.0,10,Home Mortgage,Debt Consolidation,40670.64,24.4,14.0,0,620996.0,1461482.0,0,0
+293,Fully Paid,146982.0,Short Term,670.0,981578.0,10,Rent,Debt Consolidation,25030.22,22.5,19.0,0,532589.0,828872.0,0,0
+294,Fully Paid,533698.0,Long Term,699.0,1853298.0,1,Rent,Debt Consolidation,30270.61,21.6,18.0,0,342209.0,589644.0,0,0
+295,Fully Paid,316514.0,Short Term,726.0,1172718.0,0,Rent,Debt Consolidation,12437.59,16.9,13.0,0,413060.0,582560.0,0,0
+296,Charged Off,563068.0,Long Term,623.0,2094807.0,0,Rent,Debt Consolidation,35960.92,12.1,17.0,0,580203.0,917774.0,0,0
+297,Fully Paid,163482.0,Short Term,711.0,564756.0,10,Rent,Buy a Car,6447.65,12.4,9.0,0,216809.0,318186.0,0,0
+298,Fully Paid,173316.0,Short Term,744.0,954275.0,2,Home Mortgage,Debt Consolidation,6457.15,13.2,5.0,0,327541.0,780384.0,0,0
+299,Charged Off,133936.0,Short Term,639.0,347035.0,1,Home Mortgage,Home Improvements,6969.39,15.4,10.0,0,68742.0,151910.0,0,0
+300,Fully Paid,64526.0,Short Term,747.0,185782.0,0,Rent,Debt Consolidation,4799.4,10.1,8.0,0,72257.0,172128.0,0,0
+301,Charged Off,47806.0,Short Term,671.0,835620.0,2,Rent,Other,3070.97,12.8,10.0,0,48051.0,60764.0,0,0
+302,Fully Paid,131934.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,10640.95,16.7,7.0,0,136154.0,248270.0,0,0
+303,Charged Off,147576.0,Short Term,748.0,463429.0,2,Rent,Debt Consolidation,8573.56,12.9,20.0,0,88939.0,357588.0,0,0
+304,Fully Paid,545160.0,Long Term,699.0,3954888.0,10,Home Mortgage,Debt Consolidation,27881.93,18.1,15.0,0,163020.0,215974.0,0,0
+305,Fully Paid,657294.0,Short Term,691.0,2270652.0,4,Rent,Debt Consolidation,24031.01,11.3,12.0,0,405327.0,811998.0,0,0
+306,Fully Paid,780406.0,Short Term,715.0,3369897.0,10,Home Mortgage,Debt Consolidation,35945.53,9.2,6.0,0,457710.0,1130008.0,0,0
+307,Fully Paid,43318.0,Short Term,708.0,897769.0,4,Rent,Other,7391.57,17.9,2.0,0,3382.0,4334.0,0,0
+308,Fully Paid,44792.0,Short Term,723.0,502892.0,7,Rent,Other,7794.75,7.5,9.0,1,193781.0,358446.0,0,1
+309,Fully Paid,268004.0,Short Term,750.0,867996.0,10,Rent,Debt Consolidation,21410.53,23.0,15.0,0,309776.0,1203664.0,0,0
+310,Fully Paid,776864.0,Short Term,687.0,1629383.0,10,Home Mortgage,Debt Consolidation,34895.78,19.6,24.0,1,481783.0,950334.0,1,0
+311,Fully Paid,273856.0,Long Term,614.0,821826.0,10,Rent,Debt Consolidation,8766.22,16.4,4.0,0,146262.0,234586.0,0,0
+312,Fully Paid,33154.0,Short Term,713.0,572793.0,10,Rent,vacation,13412.86,11.8,10.0,1,49153.0,178948.0,1,0
+313,Fully Paid,450384.0,Short Term,746.0,1166904.0,10,Home Mortgage,Home Improvements,31506.37,20.2,12.0,0,332918.0,687126.0,0,0
+314,Fully Paid,662310.0,Short Term,699.0,1258389.0,10,Home Mortgage,Debt Consolidation,13213.17,17.5,8.0,1,302309.0,562782.0,1,0
+315,Fully Paid,353232.0,Short Term,712.0,823707.0,10,Home Mortgage,Debt Consolidation,13659.67,9.8,9.0,0,117496.0,242968.0,0,0
+316,Fully Paid,221056.0,Short Term,741.0,954560.0,10,Rent,Debt Consolidation,9386.57,12.0,19.0,0,117420.0,229658.0,0,0
+317,Fully Paid,76340.0,Short Term,726.0,1172718.0,10,Rent,major_purchase,472.15,23.6,6.0,1,15333.0,322806.0,1,0
+318,Fully Paid,469678.0,Long Term,667.0,2250246.0,6,Home Mortgage,Debt Consolidation,51380.56,14.6,43.0,0,979526.0,1543102.0,0,0
+319,Fully Paid,319726.0,Short Term,749.0,952185.0,2,Home Mortgage,Debt Consolidation,17059.91,21.2,8.0,0,299725.0,778140.0,0,0
+320,Fully Paid,460350.0,Short Term,736.0,888041.0,5,Own Home,Debt Consolidation,18796.89,27.2,9.0,0,547504.0,816948.0,0,0
+321,Fully Paid,133606.0,Short Term,701.0,2538343.0,10,Home Mortgage,Buy House,18297.19,32.9,21.0,0,198911.0,342738.0,0,0
+322,Fully Paid,67298.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,20289.53,22.5,9.0,1,170601.0,302962.0,1,0
+323,Fully Paid,328350.0,Short Term,745.0,1343243.0,10,Home Mortgage,Debt Consolidation,11529.39,19.4,7.0,0,373958.0,600578.0,0,0
+324,Fully Paid,380622.0,Long Term,657.0,969665.0,3,Rent,Debt Consolidation,26665.74,10.6,5.0,0,305482.0,377102.0,0,0
+325,Fully Paid,281710.0,Short Term,728.0,831953.0,2,Home Mortgage,Debt Consolidation,12964.46,18.0,12.0,0,461415.0,907104.0,0,0
+326,Fully Paid,332552.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,18093.32,26.9,9.0,0,324539.0,650122.0,0,0
+327,Fully Paid,161656.0,Short Term,749.0,874874.0,9,Home Mortgage,Debt Consolidation,12226.5,16.1,10.0,0,159676.0,394218.0,0,0
+328,Fully Paid,87274.0,Short Term,719.0,753692.0,10,Rent,Debt Consolidation,4013.37,8.2,8.0,0,101042.0,259424.0,0,0
+329,Charged Off,456126.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,23213.82,18.6,8.0,0,333640.0,519244.0,0,0
+330,Fully Paid,294580.0,Short Term,744.0,1734624.0,10,Rent,Debt Consolidation,8051.63,17.8,12.0,0,229007.0,433290.0,0,0
+331,Fully Paid,526196.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,24808.49,20.1,12.0,0,443840.0,1072918.0,0,0
+332,Fully Paid,39138.0,Short Term,731.0,751336.0,4,Home Mortgage,Home Improvements,10894.41,10.6,11.0,0,77539.0,302302.0,0,0
+333,Fully Paid,516978.0,Long Term,712.0,1261809.0,0,Home Mortgage,Debt Consolidation,15457.07,11.0,15.0,0,179208.0,256190.0,0,0
+334,Fully Paid,178882.0,Short Term,726.0,1172718.0,7,Rent,Debt Consolidation,8535.75,8.0,20.0,0,129637.0,498696.0,0,0
+335,Charged Off,327404.0,Short Term,726.0,1172718.0,10,Own Home,Debt Consolidation,26012.9,17.0,12.0,0,246525.0,406032.0,0,0
+336,Fully Paid,90112.0,Short Term,726.0,1172718.0,6,Rent,Other,13879.88,13.1,3.0,1,304.0,32780.0,0,0
+337,Fully Paid,449724.0,Short Term,720.0,925946.0,4,Home Mortgage,Home Improvements,6643.54,9.2,10.0,1,170069.0,449570.0,1,1
+338,Fully Paid,260436.0,Long Term,734.0,1244272.0,10,Home Mortgage,Debt Consolidation,11924.21,28.4,12.0,0,189696.0,625812.0,0,0
+339,Fully Paid,260810.0,Short Term,726.0,1172718.0,2,Home Mortgage,Debt Consolidation,13076.56,19.0,11.0,1,180329.0,258742.0,1,0
+340,Fully Paid,756844.0,Short Term,726.0,1172718.0,4,Rent,Debt Consolidation,25198.94,26.9,10.0,0,876147.0,1147586.0,0,0
+341,Fully Paid,264396.0,Short Term,737.0,1712565.0,10,Rent,Debt Consolidation,19980.02,21.9,13.0,0,380665.0,1075052.0,0,0
+342,Charged Off,242264.0,Short Term,744.0,584345.0,5,Home Mortgage,Debt Consolidation,12417.45,21.7,10.0,0,212306.0,836154.0,0,0
+343,Fully Paid,251196.0,Short Term,740.0,1051536.0,10,Home Mortgage,Debt Consolidation,23133.83,48.7,16.0,0,300295.0,452716.0,0,0
+344,Charged Off,224312.0,Short Term,700.0,678034.0,3,Rent,Debt Consolidation,13052.24,12.8,13.0,0,240863.0,639650.0,0,0
+345,Fully Paid,222728.0,Long Term,615.0,905160.0,1,Rent,Business Loan,18706.64,16.2,9.0,0,64676.0,135432.0,0,0
+346,Fully Paid,266882.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,20287.44,23.4,12.0,0,255018.0,853402.0,0,0
+347,Fully Paid,450648.0,Short Term,737.0,1634627.0,10,Rent,Debt Consolidation,10570.65,32.5,6.0,1,93252.0,151008.0,1,0
+348,Fully Paid,500302.0,Short Term,726.0,1172718.0,7,Rent,Debt Consolidation,13520.59,15.0,8.0,0,232142.0,732424.0,0,0
+349,Fully Paid,407528.0,Long Term,711.0,928226.0,2,Rent,Debt Consolidation,18487.38,11.1,5.0,0,263093.0,333652.0,0,0
+350,Fully Paid,152372.0,Short Term,697.0,845937.0,0,Rent,Debt Consolidation,2876.22,8.8,10.0,0,56943.0,215468.0,0,0
+351,Fully Paid,704946.0,Short Term,717.0,1352914.0,10,Home Mortgage,Debt Consolidation,27960.21,30.0,16.0,0,792623.0,1456752.0,0,0
+352,Fully Paid,630234.0,Short Term,726.0,1172718.0,1,Home Mortgage,Debt Consolidation,32910.85,15.6,13.0,0,1060846.0,1305370.0,0,0
+353,Fully Paid,87472.0,Short Term,695.0,679896.0,4,Home Mortgage,Business Loan,6872.68,10.2,4.0,0,19912.0,133210.0,0,0
+354,Charged Off,178046.0,Short Term,726.0,1172718.0,0,Rent,Debt Consolidation,18759.08,23.3,11.0,0,119757.0,360184.0,0,0
+355,Fully Paid,155738.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,6654.75,19.4,7.0,1,125039.0,275748.0,1,0
+356,Charged Off,234036.0,Short Term,703.0,665798.0,10,Home Mortgage,Debt Consolidation,11263.01,17.0,13.0,0,242098.0,308396.0,0,0
+357,Fully Paid,223146.0,Short Term,719.0,573819.0,7,Home Mortgage,Debt Consolidation,10902.58,22.6,9.0,1,77159.0,192544.0,1,0
+358,Fully Paid,649902.0,Long Term,695.0,1309651.0,10,Own Home,Debt Consolidation,6810.17,26.0,7.0,0,300884.0,361768.0,0,0
+359,Fully Paid,214632.0,Short Term,722.0,1448237.0,9,Home Mortgage,Debt Consolidation,33188.63,15.0,25.0,0,485982.0,970200.0,0,0
+360,Charged Off,207636.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,15330.53,19.7,9.0,0,184281.0,254936.0,0,0
+361,Fully Paid,396286.0,Short Term,741.0,2528767.0,10,Home Mortgage,Debt Consolidation,17111.4,28.9,11.0,0,174781.0,535414.0,0,0
+362,Charged Off,268664.0,Short Term,727.0,899954.0,8,Home Mortgage,Debt Consolidation,17324.2,19.5,13.0,0,223725.0,460130.0,0,0
+363,Fully Paid,405746.0,Short Term,742.0,1168044.0,5,Home Mortgage,Debt Consolidation,21511.42,13.8,9.0,1,286748.0,378598.0,1,0
+364,Fully Paid,188166.0,Short Term,747.0,2408554.0,10,Rent,Debt Consolidation,7587.08,16.5,7.0,1,85975.0,143440.0,1,0
+365,Fully Paid,358578.0,Short Term,711.0,1509721.0,9,Home Mortgage,Debt Consolidation,3157.8,13.7,3.0,0,58862.0,91850.0,0,0
+366,Fully Paid,94534.0,Short Term,718.0,777556.0,2,Rent,Debt Consolidation,12894.35,8.7,8.0,0,49286.0,72050.0,0,0
+367,Fully Paid,767624.0,Short Term,733.0,2083825.0,0,Home Mortgage,Debt Consolidation,22574.85,12.6,12.0,0,434910.0,1243396.0,0,0
+368,Fully Paid,403964.0,Short Term,744.0,1763561.0,10,Home Mortgage,Debt Consolidation,17929.35,18.4,11.0,0,389101.0,843678.0,0,0
+369,Fully Paid,531168.0,Long Term,724.0,1834944.0,10,Home Mortgage,Debt Consolidation,23242.7,38.0,16.0,0,534033.0,942612.0,0,0
+370,Fully Paid,390896.0,Short Term,735.0,804460.0,7,Rent,Debt Consolidation,11932.95,26.3,14.0,1,335027.0,1251360.0,1,0
+371,Fully Paid,134794.0,Short Term,736.0,927523.0,10,Rent,Debt Consolidation,11439.33,16.8,7.0,1,72371.0,130306.0,1,0
+372,Fully Paid,134596.0,Short Term,723.0,1356201.0,1,Home Mortgage,Debt Consolidation,18308.78,21.5,19.0,0,286596.0,707586.0,0,0
+373,Fully Paid,311850.0,Long Term,723.0,694564.0,10,Own Home,Debt Consolidation,12270.77,18.8,6.0,0,167238.0,338536.0,0,0
+374,Fully Paid,429000.0,Short Term,746.0,926250.0,10,Home Mortgage,Debt Consolidation,27015.53,28.5,8.0,0,473708.0,746240.0,0,0
+375,Fully Paid,375650.0,Short Term,724.0,768398.0,10,Rent,Debt Consolidation,12857.68,19.0,10.0,0,254391.0,435072.0,0,0
+376,Fully Paid,762696.0,Long Term,656.0,6906766.0,3,Home Mortgage,Debt Consolidation,86334.48,31.2,13.0,0,1376474.0,1728650.0,0,0
+377,Fully Paid,267872.0,Long Term,726.0,1172718.0,10,Own Home,Debt Consolidation,19439.85,20.5,10.0,0,673512.0,1687994.0,0,0
+378,Charged Off,781022.0,Long Term,653.0,2004253.0,10,Home Mortgage,Debt Consolidation,35993.22,26.4,17.0,0,622554.0,1115862.0,0,0
+379,Fully Paid,216832.0,Long Term,726.0,1172718.0,2,Rent,Debt Consolidation,25920.56,14.0,8.0,1,97052.0,197164.0,1,0
+380,Charged Off,131934.0,Short Term,717.0,531734.0,1,Rent,Debt Consolidation,16395.1,8.4,9.0,0,120612.0,160512.0,0,0
+381,Fully Paid,556996.0,Short Term,733.0,4521715.0,1,Rent,Buy House,44086.65,27.0,18.0,0,106001.0,1157904.0,0,0
+382,Fully Paid,158026.0,Short Term,716.0,1091854.0,10,Home Mortgage,Home Improvements,11009.55,14.3,7.0,0,87438.0,188540.0,0,0
+383,Fully Paid,773388.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,32008.73,29.2,8.0,0,1515592.0,2321308.0,0,0
+384,Fully Paid,130746.0,Short Term,734.0,1018590.0,10,Rent,Debt Consolidation,16891.57,22.8,7.0,1,41230.0,191686.0,1,0
+385,Fully Paid,208670.0,Short Term,703.0,566124.0,4,Home Mortgage,Debt Consolidation,3811.97,11.7,7.0,0,171779.0,264506.0,0,0
+386,Fully Paid,298166.0,Short Term,717.0,2247396.0,10,Home Mortgage,Debt Consolidation,35583.77,19.5,22.0,1,50825.0,159060.0,1,0
+387,Fully Paid,267784.0,Long Term,689.0,1638104.0,1,Own Home,Debt Consolidation,48050.62,12.2,10.0,0,60325.0,403722.0,0,0
+388,Fully Paid,430012.0,Short Term,723.0,1392662.0,10,Home Mortgage,Debt Consolidation,21470.0,16.0,21.0,1,597360.0,2034340.0,0,0
+389,Charged Off,44022.0,Short Term,666.0,910727.0,0,Home Mortgage,Other,19808.26,22.5,8.0,0,419748.0,514866.0,0,0
+390,Charged Off,140888.0,Short Term,693.0,1166296.0,10,Rent,major_purchase,7396.32,16.4,6.0,0,1254.0,145244.0,0,0
+391,Fully Paid,260216.0,Long Term,664.0,1685547.0,10,Home Mortgage,Home Improvements,17698.31,14.8,12.0,1,71041.0,301290.0,1,0
+392,Fully Paid,151602.0,Short Term,739.0,1084805.0,3,Rent,Debt Consolidation,7204.99,10.7,6.0,0,69331.0,395472.0,0,0
+393,Fully Paid,311608.0,Short Term,726.0,1172718.0,4,Rent,Debt Consolidation,19115.14,15.9,8.0,0,120460.0,255464.0,0,0
+394,Charged Off,220770.0,Short Term,705.0,571995.0,9,Rent,Debt Consolidation,10915.5,21.3,6.0,0,93043.0,139018.0,0,0
+395,Fully Paid,176220.0,Short Term,717.0,1027235.0,10,Own Home,Debt Consolidation,9330.71,25.5,7.0,1,99294.0,283888.0,1,0
+396,Fully Paid,130988.0,Short Term,726.0,1172718.0,5,Rent,Debt Consolidation,15955.25,14.5,11.0,0,231610.0,360448.0,0,0
+397,Fully Paid,324346.0,Short Term,742.0,954370.0,4,Rent,Debt Consolidation,17019.63,10.0,17.0,0,121448.0,404096.0,0,0
+398,Fully Paid,259138.0,Short Term,751.0,2517804.0,10,Home Mortgage,Debt Consolidation,14687.19,18.8,11.0,0,138491.0,1252878.0,0,0
+399,Charged Off,32450.0,Short Term,711.0,653904.0,3,Rent,Home Improvements,11770.12,8.2,11.0,0,129656.0,231308.0,0,0
+400,Fully Paid,455906.0,Long Term,727.0,3562348.0,5,Home Mortgage,Other,49576.13,19.4,14.0,1,974415.0,1399838.0,0,1
+401,Charged Off,388168.0,Short Term,744.0,2234856.0,10,Home Mortgage,Debt Consolidation,40041.17,21.0,9.0,0,681587.0,896852.0,0,0
+402,Charged Off,261492.0,Short Term,732.0,463258.0,5,Rent,Other,8724.61,9.9,9.0,0,134862.0,281358.0,0,0
+403,Fully Paid,171776.0,Short Term,747.0,1168272.0,1,Rent,Debt Consolidation,11293.22,11.4,4.0,0,82270.0,118030.0,0,0
+404,Fully Paid,648516.0,Short Term,730.0,1400205.0,6,Home Mortgage,Debt Consolidation,21353.15,19.0,8.0,0,265905.0,332156.0,0,0
+405,Fully Paid,214962.0,Short Term,745.0,540607.0,10,Home Mortgage,Debt Consolidation,7703.74,19.4,7.0,0,114247.0,399652.0,0,0
+406,Fully Paid,448932.0,Short Term,738.0,1473317.0,8,Own Home,Debt Consolidation,17557.14,14.7,10.0,0,160569.0,321112.0,0,0
+407,Fully Paid,764918.0,Long Term,726.0,1172718.0,4,Home Mortgage,Debt Consolidation,17232.43,16.5,7.0,0,333735.0,1146706.0,0,0
+408,Fully Paid,447524.0,Short Term,741.0,2705486.0,10,Rent,Debt Consolidation,29985.8,29.0,9.0,0,485697.0,962984.0,0,0
+409,Charged Off,484968.0,Long Term,733.0,1523040.0,8,Rent,Debt Consolidation,30587.72,16.8,13.0,0,491359.0,1338656.0,0,0
+410,Charged Off,129756.0,Short Term,745.0,1270036.0,1,Home Mortgage,Home Improvements,25675.84,26.5,9.0,0,684893.0,858242.0,0,0
+411,Charged Off,221320.0,Short Term,740.0,860130.0,10,Home Mortgage,Debt Consolidation,5390.11,14.0,11.0,1,117952.0,378334.0,1,0
+412,Fully Paid,66572.0,Short Term,747.0,785707.0,2,Home Mortgage,Other,13618.82,8.3,7.0,0,16302.0,132990.0,0,0
+413,Fully Paid,462792.0,Short Term,749.0,2207743.0,10,Home Mortgage,Debt Consolidation,19869.63,24.3,11.0,0,710334.0,1815682.0,0,0
+414,Fully Paid,222574.0,Short Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,19798.95,25.7,11.0,0,81396.0,1847802.0,0,0
+415,Charged Off,752004.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,21714.15,20.1,11.0,0,572356.0,864028.0,0,0
+416,Charged Off,445632.0,Long Term,680.0,877059.0,10,Rent,Home Improvements,12205.6,33.5,9.0,0,344584.0,701206.0,0,0
+417,Charged Off,219054.0,Short Term,723.0,1067154.0,9,Home Mortgage,Debt Consolidation,24455.66,15.4,8.0,0,100814.0,130284.0,0,0
+418,Fully Paid,132616.0,Short Term,743.0,1527144.0,10,Home Mortgage,Debt Consolidation,40342.32,22.4,16.0,0,159030.0,814770.0,0,0
+419,Fully Paid,590986.0,Long Term,613.0,1156511.0,3,Rent,Debt Consolidation,22060.52,14.1,11.0,0,268926.0,331254.0,0,0
+420,Fully Paid,96800.0,Short Term,712.0,371564.0,3,Rent,Debt Consolidation,6874.01,14.1,14.0,0,177688.0,340054.0,0,0
+421,Fully Paid,43054.0,Short Term,747.0,490713.0,2,Rent,Debt Consolidation,8346.32,21.7,10.0,0,75962.0,240988.0,0,0
+422,Fully Paid,88374.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,18904.81,15.8,14.0,1,50996.0,260128.0,1,0
+423,Fully Paid,483098.0,Long Term,698.0,1467978.0,3,Home Mortgage,Debt Consolidation,33396.3,16.3,43.0,0,719283.0,1091552.0,0,0
+424,Charged Off,244398.0,Short Term,726.0,1172718.0,4,Home Mortgage,Other,4844.24,13.3,7.0,0,190456.0,371250.0,0,0
+425,Charged Off,423676.0,Short Term,726.0,1172718.0,4,Home Mortgage,Debt Consolidation,97671.02,19.7,22.0,0,676951.0,917840.0,0,0
+426,Fully Paid,215138.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,11380.24,18.1,9.0,1,289199.0,350636.0,1,0
+427,Fully Paid,782408.0,Short Term,726.0,1172718.0,2,Home Mortgage,Debt Consolidation,69227.64,33.4,12.0,0,246658.0,531828.0,0,0
+428,Fully Paid,257554.0,Short Term,732.0,885096.0,8,Rent,Debt Consolidation,11211.14,21.6,4.0,0,197239.0,302478.0,0,0
+429,Fully Paid,268752.0,Short Term,747.0,812364.0,3,Home Mortgage,Debt Consolidation,6654.56,15.3,9.0,0,278103.0,615692.0,0,0
+430,Fully Paid,147400.0,Short Term,745.0,2314428.0,4,Rent,Debt Consolidation,20058.3,19.8,8.0,0,40603.0,528198.0,0,0
+431,Fully Paid,263428.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,12417.64,13.6,5.0,1,82023.0,412984.0,1,0
+432,Fully Paid,444400.0,Short Term,726.0,1172718.0,1,Rent,Debt Consolidation,1367.24,9.0,7.0,0,57494.0,443806.0,0,0
+433,Fully Paid,387288.0,Short Term,740.0,2489988.0,1,Rent,Debt Consolidation,18571.17,11.1,12.0,0,167276.0,430408.0,0,0
+434,Fully Paid,682858.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,33470.4,29.5,7.0,0,482771.0,746306.0,0,0
+435,Fully Paid,234762.0,Short Term,731.0,784833.0,2,Rent,Debt Consolidation,5958.21,14.1,4.0,1,88122.0,123398.0,1,0
+436,Fully Paid,107844.0,Short Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,16912.47,31.3,12.0,0,239058.0,423896.0,0,0
+437,Charged Off,259754.0,Long Term,726.0,1172718.0,10,Rent,Debt Consolidation,21872.04,13.1,13.0,0,209551.0,441144.0,0,0
+438,Fully Paid,264836.0,Long Term,703.0,1277066.0,9,Home Mortgage,Medical Bills,14473.44,17.2,7.0,0,40280.0,249370.0,0,0
+439,Fully Paid,223102.0,Short Term,724.0,1965322.0,4,Rent,Debt Consolidation,20799.68,31.0,4.0,0,233472.0,299046.0,0,0
+440,Fully Paid,748154.0,Short Term,668.0,7669160.0,5,Rent,Other,12078.87,20.9,7.0,1,46721.0,314556.0,1,1
+441,Fully Paid,434896.0,Long Term,723.0,1032878.0,8,Rent,Debt Consolidation,20657.56,18.6,12.0,1,313595.0,459052.0,1,0
+442,Fully Paid,156552.0,Short Term,720.0,1840397.0,10,Home Mortgage,Debt Consolidation,31440.25,19.1,10.0,0,258400.0,406538.0,0,0
+443,Fully Paid,132000.0,Short Term,713.0,440895.0,4,Home Mortgage,Debt Consolidation,6797.06,11.9,11.0,0,207347.0,301246.0,0,0
+444,Fully Paid,358116.0,Long Term,721.0,1507783.0,3,Home Mortgage,vacation,34679.18,19.0,7.0,0,760399.0,928774.0,0,0
+445,Fully Paid,224598.0,Short Term,726.0,1172718.0,5,Home Mortgage,Other,16325.94,30.5,22.0,1,107616.0,2009788.0,0,1
+446,Charged Off,526460.0,Long Term,688.0,1041979.0,3,Home Mortgage,Debt Consolidation,28306.96,30.8,20.0,0,157434.0,197494.0,0,0
+447,Fully Paid,608014.0,Short Term,709.0,1067686.0,6,Home Mortgage,Business Loan,16460.08,18.1,7.0,0,88084.0,352946.0,0,0
+448,Charged Off,435864.0,Long Term,726.0,1172718.0,9,Rent,Debt Consolidation,15429.9,17.3,19.0,0,338485.0,928730.0,0,0
+449,Fully Paid,436524.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,11100.18,20.0,17.0,0,364192.0,2652232.0,0,0
+450,Charged Off,288354.0,Long Term,618.0,2298696.0,10,Home Mortgage,Other,33331.13,15.5,18.0,0,657913.0,1429230.0,0,0
+451,Fully Paid,132462.0,Short Term,691.0,781736.0,10,Home Mortgage,Debt Consolidation,4156.06,15.6,4.0,1,82517.0,203302.0,1,0
+452,Fully Paid,306482.0,Short Term,740.0,1134414.0,10,Rent,Debt Consolidation,22688.28,19.6,12.0,0,194389.0,389400.0,0,0
+453,Fully Paid,246620.0,Long Term,726.0,1172718.0,10,Rent,Debt Consolidation,12994.86,32.2,9.0,0,202559.0,264110.0,0,0
+454,Fully Paid,327866.0,Short Term,726.0,1359108.0,8,Own Home,Debt Consolidation,5742.18,16.2,11.0,0,164958.0,427306.0,0,0
+455,Fully Paid,110044.0,Short Term,729.0,1478637.0,5,Rent,Debt Consolidation,27601.49,17.0,16.0,0,364933.0,523600.0,0,0
+456,Fully Paid,131560.0,Short Term,740.0,1488479.0,4,Own Home,Buy a Car,36467.65,21.9,25.0,0,295317.0,697818.0,0,0
+457,Fully Paid,757768.0,Long Term,739.0,4674475.0,9,Rent,Debt Consolidation,71285.72,16.0,12.0,0,475133.0,883058.0,0,0
+458,Fully Paid,109714.0,Short Term,744.0,1629744.0,4,Own Home,Debt Consolidation,4875.59,14.5,6.0,0,188423.0,571142.0,0,0
+459,Fully Paid,111980.0,Short Term,722.0,1160520.0,10,Home Mortgage,Other,28916.29,22.5,9.0,0,320131.0,685168.0,0,0
+460,Charged Off,248402.0,Short Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,7943.52,9.5,11.0,0,261991.0,369512.0,0,0
+461,Fully Paid,774246.0,Short Term,736.0,2838543.0,7,Home Mortgage,Debt Consolidation,40685.84,20.1,15.0,0,752590.0,1158784.0,0,0
+462,Fully Paid,130152.0,Short Term,726.0,1172718.0,4,Home Mortgage,Home Improvements,9727.62,21.3,6.0,0,109972.0,436084.0,0,0
+463,Fully Paid,351714.0,Short Term,740.0,837235.0,8,Home Mortgage,Debt Consolidation,6551.2,9.5,6.0,0,204858.0,422092.0,0,0
+464,Fully Paid,110462.0,Short Term,738.0,1526384.0,5,Rent,Debt Consolidation,5075.28,23.4,6.0,0,175864.0,245344.0,0,0
+465,Fully Paid,266926.0,Short Term,749.0,922127.0,6,Home Mortgage,Debt Consolidation,10066.58,38.3,17.0,0,234346.0,673332.0,0,0
+466,Charged Off,48884.0,Short Term,726.0,1172718.0,9,Rent,Other,7996.72,13.8,11.0,0,157472.0,224554.0,0,0
+467,Charged Off,560956.0,Short Term,664.0,1637059.0,5,Rent,Debt Consolidation,44746.33,17.6,13.0,0,380779.0,567446.0,0,0
+468,Fully Paid,337150.0,Long Term,721.0,1119936.0,6,Rent,Debt Consolidation,15959.05,12.5,9.0,0,166573.0,484594.0,0,0
+469,Charged Off,225082.0,Short Term,726.0,1172718.0,8,Own Home,Debt Consolidation,26566.56,32.4,18.0,0,130568.0,1511884.0,0,0
+470,Fully Paid,447172.0,Short Term,726.0,1172718.0,8,Own Home,Debt Consolidation,21546.38,16.5,12.0,0,673512.0,1830642.0,0,0
+471,Fully Paid,156090.0,Short Term,706.0,1872260.0,10,Rent,Debt Consolidation,25275.51,18.5,8.0,0,541386.0,698060.0,0,0
+472,Fully Paid,172040.0,Short Term,748.0,670985.0,10,Home Mortgage,Buy House,10847.48,14.7,6.0,0,12901.0,164186.0,0,0
+473,Fully Paid,150788.0,Short Term,739.0,2009326.0,1,Rent,Buy House,11787.98,31.0,4.0,0,51338.0,540320.0,0,0
+474,Charged Off,225192.0,Short Term,726.0,1172718.0,2,Rent,Business Loan,24796.71,19.7,8.0,0,113487.0,238898.0,0,0
+475,Charged Off,214698.0,Short Term,726.0,1172718.0,4,Own Home,Debt Consolidation,10241.19,29.9,9.0,0,297540.0,648824.0,0,0
+476,Fully Paid,263318.0,Short Term,738.0,707085.0,1,Rent,Debt Consolidation,12962.94,14.8,10.0,0,232940.0,451770.0,0,0
+477,Fully Paid,177584.0,Short Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,19631.18,14.5,12.0,1,270104.0,415316.0,1,0
+478,Fully Paid,552750.0,Long Term,723.0,954750.0,10,Home Mortgage,Debt Consolidation,3389.41,29.2,12.0,1,169404.0,797390.0,0,1
+479,Fully Paid,762454.0,Short Term,695.0,1467484.0,10,Home Mortgage,Home Improvements,10199.01,17.4,6.0,0,129884.0,674454.0,0,0
+480,Fully Paid,304062.0,Long Term,636.0,2344600.0,0,Rent,Debt Consolidation,9163.51,14.8,15.0,0,440838.0,743006.0,0,0
+481,Fully Paid,230362.0,Long Term,731.0,1013479.0,10,Home Mortgage,Debt Consolidation,24306.7,22.0,16.0,0,542735.0,1114234.0,0,0
+482,Charged Off,280588.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,17005.19,15.0,11.0,0,111226.0,163856.0,0,0
+483,Fully Paid,87428.0,Short Term,743.0,692474.0,0,Rent,Other,7444.2,10.7,15.0,0,106799.0,464882.0,0,0
+484,Fully Paid,397430.0,Long Term,726.0,1172718.0,4,Rent,Debt Consolidation,17517.62,11.4,9.0,0,351177.0,1213828.0,0,0
+485,Fully Paid,153868.0,Short Term,741.0,2183043.0,9,Home Mortgage,Debt Consolidation,49482.08,24.0,15.0,0,688655.0,887986.0,0,0
+486,Fully Paid,132704.0,Short Term,746.0,1375391.0,0,Rent,Debt Consolidation,12493.07,15.5,11.0,0,129808.0,356158.0,0,0
+487,Fully Paid,316998.0,Long Term,702.0,836494.0,10,Rent,Debt Consolidation,19936.7,25.6,17.0,0,293778.0,499532.0,0,0
+488,Fully Paid,387904.0,Long Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,3782.52,22.1,13.0,1,72238.0,344256.0,1,0
+489,Fully Paid,121440.0,Short Term,731.0,749132.0,1,Rent,Debt Consolidation,17479.62,18.6,15.0,0,95456.0,504702.0,0,0
+490,Fully Paid,178640.0,Short Term,705.0,1292095.0,10,Rent,Debt Consolidation,12274.95,20.1,4.0,1,140885.0,290246.0,1,1
+491,Fully Paid,671836.0,Short Term,707.0,1318695.0,0,Home Mortgage,Debt Consolidation,18022.26,21.1,9.0,0,146965.0,348700.0,0,0
+492,Fully Paid,588962.0,Long Term,678.0,1412897.0,0,Home Mortgage,Debt Consolidation,16719.24,18.5,13.0,0,424498.0,785202.0,0,0
+493,Fully Paid,175010.0,Short Term,703.0,785973.0,10,Home Mortgage,Debt Consolidation,9890.26,12.1,5.0,0,182115.0,234036.0,0,0
+494,Fully Paid,429440.0,Long Term,674.0,1383599.0,10,Home Mortgage,Home Improvements,11760.62,33.5,9.0,0,206853.0,318076.0,0,0
+495,Fully Paid,777084.0,Long Term,725.0,3355970.0,4,Home Mortgage,Home Improvements,26623.94,26.7,13.0,0,3276284.0,145907344.0,0,0
+496,Fully Paid,109582.0,Short Term,744.0,1514224.0,4,Home Mortgage,Debt Consolidation,10637.34,10.1,7.0,0,23294.0,85382.0,0,0
+497,Fully Paid,483604.0,Long Term,731.0,1213853.0,10,Home Mortgage,Debt Consolidation,20938.76,31.3,17.0,0,310802.0,624800.0,0,0
+498,Charged Off,341308.0,Short Term,741.0,669503.0,4,Rent,Debt Consolidation,9317.22,11.4,6.0,0,379601.0,646404.0,0,0
+499,Fully Paid,152416.0,Short Term,747.0,637241.0,5,Home Mortgage,Debt Consolidation,12521.76,19.8,9.0,1,120118.0,221122.0,1,0
+500,Fully Paid,327426.0,Long Term,713.0,3676101.0,10,Home Mortgage,Debt Consolidation,38292.79,29.8,13.0,0,429115.0,661628.0,0,0
+501,Charged Off,78298.0,Short Term,726.0,1172718.0,1,Rent,Debt Consolidation,16590.23,9.4,8.0,0,237272.0,282656.0,0,0
+502,Fully Paid,77000.0,Short Term,711.0,674044.0,1,Own Home,vacation,9942.32,20.2,5.0,1,70794.0,160710.0,1,0
+503,Fully Paid,266068.0,Short Term,726.0,1172718.0,3,Home Mortgage,Home Improvements,2970.46,20.7,13.0,1,97717.0,241758.0,1,1
+504,Fully Paid,553916.0,Long Term,594.0,2009174.0,3,Home Mortgage,Debt Consolidation,29451.14,27.8,10.0,0,579443.0,680460.0,0,0
+505,Fully Paid,349932.0,Short Term,721.0,3602153.0,10,Home Mortgage,Other,16029.54,20.0,17.0,0,68989.0,275462.0,0,0
+506,Charged Off,134992.0,Short Term,728.0,437209.0,2,Rent,Debt Consolidation,9691.33,7.7,5.0,0,102315.0,180048.0,0,0
+507,Fully Paid,765226.0,Short Term,726.0,2643508.0,8,Home Mortgage,Debt Consolidation,34806.1,8.6,9.0,0,484937.0,754710.0,0,0
+508,Fully Paid,122870.0,Short Term,687.0,2548432.0,4,Home Mortgage,Other,52667.62,13.5,17.0,0,363318.0,585926.0,0,0
+509,Fully Paid,131538.0,Short Term,726.0,1172718.0,3,Own Home,Debt Consolidation,15833.08,14.5,12.0,0,35549.0,46068.0,0,0
+510,Charged Off,655314.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,12937.86,22.1,9.0,0,219678.0,325270.0,0,0
+511,Fully Paid,77814.0,Short Term,748.0,529967.0,2,Home Mortgage,Debt Consolidation,2534.98,18.0,4.0,1,14383.0,333058.0,0,0
+512,Fully Paid,177628.0,Short Term,726.0,1172718.0,4,Own Home,Other,4314.33,10.3,7.0,0,136724.0,286264.0,0,0
+513,Fully Paid,262174.0,Long Term,703.0,935655.0,3,Rent,Buy House,8966.67,11.3,8.0,0,104405.0,366322.0,0,0
+514,Fully Paid,148214.0,Short Term,747.0,911487.0,5,Home Mortgage,Home Improvements,20424.81,20.5,6.0,0,142766.0,188716.0,0,0
+515,Fully Paid,778712.0,Long Term,688.0,3842940.0,10,Home Mortgage,Debt Consolidation,59565.57,25.0,18.0,0,548568.0,771782.0,0,0
+516,Charged Off,215776.0,Short Term,729.0,1583992.0,10,Rent,Debt Consolidation,14783.9,10.5,5.0,0,447564.0,720764.0,0,0
+517,Fully Paid,755062.0,Long Term,681.0,1769983.0,7,Home Mortgage,Debt Consolidation,27729.74,25.0,15.0,0,228266.0,451044.0,0,0
+518,Fully Paid,215974.0,Short Term,716.0,1585455.0,5,Rent,Debt Consolidation,16647.23,15.9,11.0,1,115273.0,364672.0,1,0
+519,Fully Paid,328548.0,Long Term,704.0,1172813.0,8,Home Mortgage,Debt Consolidation,16028.4,13.5,7.0,0,350246.0,479930.0,0,0
+520,Fully Paid,397738.0,Short Term,736.0,1622106.0,4,Home Mortgage,Debt Consolidation,25413.07,15.9,16.0,0,494836.0,966218.0,0,0
+521,Fully Paid,347996.0,Long Term,700.0,686945.0,1,Own Home,Debt Consolidation,3932.81,11.0,7.0,0,164578.0,227678.0,0,0
+522,Charged Off,432520.0,Short Term,745.0,1029477.0,10,Home Mortgage,Debt Consolidation,17758.54,15.4,7.0,0,296286.0,536074.0,0,0
+523,Fully Paid,776864.0,Long Term,724.0,1380179.0,7,Rent,Business Loan,11593.42,12.8,15.0,0,42750.0,562474.0,0,0
+524,Fully Paid,335082.0,Short Term,721.0,1215430.0,0,Home Mortgage,Educational Expenses,13065.92,25.5,13.0,0,351728.0,419848.0,0,0
+525,Fully Paid,86988.0,Short Term,726.0,1172718.0,6,Rent,Debt Consolidation,1991.96,10.2,5.0,0,80294.0,245982.0,0,0
+526,Charged Off,220286.0,Short Term,734.0,1731242.0,1,Home Mortgage,Home Improvements,29575.4,18.5,5.0,0,105564.0,165198.0,0,0
+527,Fully Paid,329142.0,Short Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,17811.36,19.8,8.0,0,234308.0,293920.0,0,0
+528,Charged Off,329054.0,Short Term,710.0,1136694.0,10,Rent,Debt Consolidation,15819.02,10.9,14.0,0,108091.0,372526.0,0,0
+529,Fully Paid,231264.0,Long Term,656.0,433371.0,10,Home Mortgage,Debt Consolidation,7078.45,16.0,9.0,0,331588.0,769428.0,0,0
+530,Fully Paid,61358.0,Short Term,726.0,756884.0,10,Own Home,Buy a Car,19048.26,21.5,9.0,0,134615.0,251812.0,0,0
+531,Fully Paid,218394.0,Short Term,726.0,1172718.0,9,Home Mortgage,Debt Consolidation,15784.44,13.7,10.0,0,172121.0,878020.0,0,0
+532,Charged Off,220396.0,Long Term,680.0,1903420.0,2,Rent,Debt Consolidation,18240.95,15.8,9.0,0,57608.0,66110.0,0,0
+533,Charged Off,129074.0,Short Term,726.0,1172718.0,3,Rent,Debt Consolidation,18949.84,6.6,10.0,0,132734.0,236456.0,0,0
+534,Charged Off,353782.0,Short Term,646.0,1524313.0,10,Home Mortgage,Debt Consolidation,19816.05,31.8,7.0,0,114399.0,129976.0,0,0
+535,Fully Paid,195712.0,Short Term,726.0,1172718.0,5,Rent,Debt Consolidation,25070.69,14.7,18.0,0,154850.0,251130.0,0,0
+536,Charged Off,32230.0,Short Term,726.0,1172718.0,2,Rent,Other,5679.1,11.3,6.0,1,52364.0,79464.0,0,0
+537,Charged Off,356444.0,Long Term,713.0,1269808.0,10,Home Mortgage,Business Loan,30189.48,22.1,7.0,0,762489.0,955504.0,0,0
+538,Fully Paid,111034.0,Short Term,699.0,348707.0,0,Rent,Debt Consolidation,5957.07,12.7,5.0,0,116204.0,190586.0,0,0
+539,Fully Paid,389620.0,Short Term,743.0,985530.0,0,Rent,Debt Consolidation,20942.56,13.0,18.0,0,294481.0,538670.0,0,0
+540,Fully Paid,782320.0,Long Term,614.0,2374392.0,10,Home Mortgage,Other,61932.02,21.7,14.0,0,363641.0,487344.0,0,0
+541,Fully Paid,523292.0,Long Term,713.0,1788945.0,6,Own Home,Debt Consolidation,33542.6,16.8,13.0,0,303601.0,586850.0,0,0
+542,Fully Paid,217624.0,Short Term,726.0,1172718.0,6,Rent,Debt Consolidation,10853.94,12.4,7.0,0,107274.0,239338.0,0,0
+543,Fully Paid,322740.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,43985.0,20.7,16.0,1,446329.0,891022.0,1,0
+544,Fully Paid,268620.0,Short Term,740.0,5316447.0,10,Own Home,Business Loan,36329.14,27.6,14.0,0,1385062.0,2187922.0,0,0
+545,Fully Paid,215622.0,Short Term,743.0,1899430.0,8,Home Mortgage,Debt Consolidation,34189.74,19.4,13.0,0,324235.0,1191806.0,0,0
+546,Fully Paid,222112.0,Short Term,741.0,1822328.0,10,Home Mortgage,Debt Consolidation,6499.52,20.0,26.0,0,237595.0,2116224.0,0,0
+547,Fully Paid,65714.0,Short Term,726.0,1172718.0,4,Rent,Other,1704.87,14.9,3.0,0,33250.0,120340.0,0,0
+548,Charged Off,660924.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,23848.23,23.6,18.0,0,1964923.0,3321406.0,0,0
+549,Fully Paid,484484.0,Short Term,726.0,1172718.0,3,Rent,Debt Consolidation,39551.54,11.9,28.0,0,559056.0,1219086.0,0,0
+550,Fully Paid,393382.0,Short Term,726.0,1172718.0,4,Home Mortgage,Debt Consolidation,19400.33,11.0,23.0,0,112765.0,419848.0,0,0
+551,Fully Paid,318538.0,Short Term,749.0,1623892.0,8,Rent,Debt Consolidation,5264.14,16.8,6.0,0,213199.0,599192.0,0,0
+552,Fully Paid,135014.0,Short Term,741.0,1865591.0,2,Home Mortgage,Home Improvements,37156.21,25.6,8.0,0,313633.0,465586.0,0,0
+553,Fully Paid,333036.0,Short Term,727.0,1629858.0,10,Home Mortgage,Debt Consolidation,7904.76,21.0,9.0,0,281979.0,528330.0,0,0
+554,Fully Paid,351076.0,Long Term,716.0,758024.0,6,Home Mortgage,Debt Consolidation,8780.47,16.5,8.0,1,97983.0,144892.0,1,0
+555,Fully Paid,209462.0,Long Term,669.0,1828009.0,4,Home Mortgage,Home Improvements,29400.6,17.0,7.0,1,23028.0,28666.0,1,0
+556,Charged Off,60368.0,Short Term,726.0,1172718.0,10,Home Mortgage,Other,3988.67,37.4,8.0,0,182020.0,470470.0,0,0
+557,Fully Paid,329120.0,Long Term,726.0,1172718.0,2,Rent,Debt Consolidation,20890.88,10.8,13.0,0,246373.0,690734.0,0,0
+558,Fully Paid,54230.0,Short Term,742.0,842859.0,4,Home Mortgage,Debt Consolidation,9692.85,17.9,20.0,0,65436.0,190872.0,0,0
+559,Charged Off,64592.0,Short Term,686.0,1299581.0,3,Home Mortgage,Debt Consolidation,35197.12,24.2,20.0,0,271111.0,527582.0,0,0
+560,Fully Paid,152592.0,Short Term,741.0,805790.0,8,Own Home,Debt Consolidation,10273.87,14.7,16.0,0,307420.0,908050.0,0,0
+561,Fully Paid,111914.0,Short Term,701.0,1063183.0,9,Home Mortgage,vacation,7964.99,13.3,14.0,1,154508.0,586586.0,1,0
+562,Fully Paid,237116.0,Short Term,721.0,655310.0,1,Rent,Debt Consolidation,6880.66,14.5,5.0,0,229026.0,328218.0,0,0
+563,Fully Paid,68112.0,Short Term,726.0,1172718.0,2,Rent,Business Loan,956.46,8.0,4.0,0,18734.0,123904.0,0,0
+564,Fully Paid,341550.0,Short Term,682.0,823612.0,3,Rent,Debt Consolidation,19149.15,11.4,26.0,0,600153.0,769560.0,0,0
+565,Charged Off,671506.0,Short Term,706.0,1784423.0,10,Home Mortgage,Debt Consolidation,44610.48,22.8,14.0,0,548663.0,935660.0,0,0
+566,Charged Off,279862.0,Short Term,680.0,929575.0,1,Rent,Debt Consolidation,6600.03,13.6,5.0,0,224143.0,286462.0,0,0
+567,Fully Paid,116072.0,Short Term,726.0,1172718.0,2,Home Mortgage,Debt Consolidation,10777.37,19.4,19.0,0,134729.0,496826.0,0,0
+568,Fully Paid,333212.0,Long Term,692.0,959215.0,10,Rent,Debt Consolidation,26698.23,17.4,9.0,0,616968.0,948706.0,0,0
+569,Charged Off,208670.0,Short Term,720.0,575130.0,1,Home Mortgage,Other,12604.98,22.5,5.0,0,245746.0,353034.0,0,0
+570,Charged Off,219692.0,Short Term,734.0,1413524.0,9,Rent,Debt Consolidation,11060.66,25.2,13.0,1,213712.0,899866.0,1,0
+571,Fully Paid,707872.0,Long Term,713.0,2330749.0,10,Home Mortgage,Debt Consolidation,40593.88,25.5,10.0,0,876090.0,1172754.0,0,0
+572,Fully Paid,303380.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,56924.76,22.5,12.0,0,245575.0,653708.0,0,0
+573,Fully Paid,265694.0,Short Term,739.0,655633.0,10,Own Home,Debt Consolidation,12620.75,32.9,13.0,0,427652.0,868736.0,0,0
+574,Fully Paid,265738.0,Short Term,726.0,1172718.0,9,Home Mortgage,Debt Consolidation,11153.95,14.0,11.0,1,196669.0,393976.0,1,0
+575,Charged Off,288420.0,Long Term,687.0,1286490.0,2,Rent,Debt Consolidation,4373.99,12.2,6.0,0,109459.0,278564.0,0,0
+576,Charged Off,787336.0,Long Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,17259.03,19.3,8.0,0,282055.0,713064.0,0,0
+577,Charged Off,271700.0,Short Term,696.0,675298.0,7,Rent,Business Loan,14293.89,24.5,14.0,0,272916.0,673772.0,0,0
+578,Fully Paid,449768.0,Short Term,737.0,2913270.0,3,Home Mortgage,Debt Consolidation,23913.02,23.4,11.0,0,499681.0,690448.0,0,0
+579,Fully Paid,222684.0,Short Term,707.0,1634703.0,10,Home Mortgage,Business Loan,28198.66,29.2,22.0,0,565782.0,843128.0,0,0
+580,Fully Paid,196196.0,Short Term,739.0,378632.0,1,Home Mortgage,Debt Consolidation,2120.4,6.8,3.0,0,80028.0,188320.0,0,0
+581,Charged Off,219538.0,Short Term,751.0,1611618.0,10,Home Mortgage,Other,11603.49,21.0,9.0,0,79572.0,662882.0,0,0
+582,Fully Paid,297902.0,Short Term,713.0,808317.0,8,Home Mortgage,Business Loan,14482.56,21.0,12.0,0,232560.0,359524.0,0,0
+583,Fully Paid,394548.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,30443.13,20.1,12.0,0,357523.0,810128.0,0,0
+584,Charged Off,322300.0,Short Term,733.0,891480.0,2,Home Mortgage,Debt Consolidation,23772.8,22.6,11.0,0,53827.0,214918.0,0,0
+585,Charged Off,208604.0,Short Term,726.0,1172718.0,2,Home Mortgage,Debt Consolidation,20384.91,17.6,11.0,0,358720.0,553828.0,0,0
+586,Fully Paid,407132.0,Long Term,668.0,1233765.0,3,Rent,Buy a Car,2868.62,12.4,12.0,0,38589.0,312466.0,0,0
+587,Fully Paid,82610.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,7767.2,22.2,4.0,0,48108.0,216766.0,0,0
+588,Charged Off,357588.0,Short Term,739.0,1374650.0,2,Rent,Debt Consolidation,19015.96,17.5,12.0,0,88616.0,190014.0,0,0
+589,Fully Paid,128942.0,Short Term,712.0,1633202.0,10,Home Mortgage,Debt Consolidation,44505.03,21.2,13.0,0,72884.0,120384.0,0,0
+590,Fully Paid,223168.0,Short Term,707.0,819128.0,2,Rent,Debt Consolidation,17338.07,20.5,21.0,0,147972.0,176264.0,0,0
+591,Charged Off,214940.0,Short Term,727.0,1095217.0,5,Home Mortgage,Debt Consolidation,11435.91,27.9,6.0,0,181773.0,313654.0,0,0
+592,Fully Paid,698742.0,Long Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,22817.29,14.7,10.0,0,447317.0,824736.0,0,0
+593,Charged Off,174306.0,Short Term,726.0,1172718.0,0,Rent,Business Loan,7113.03,19.4,10.0,0,103208.0,156838.0,0,0
+594,Fully Paid,434016.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,36280.5,26.1,10.0,0,1194188.0,1632532.0,0,0
+595,Fully Paid,393668.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,30908.44,17.6,15.0,0,492290.0,708994.0,0,0
+596,Fully Paid,216128.0,Short Term,715.0,1175929.0,5,Home Mortgage,Debt Consolidation,15483.1,32.3,12.0,1,137332.0,255222.0,1,1
+597,Fully Paid,246202.0,Short Term,720.0,1404879.0,8,Rent,Debt Consolidation,13112.28,16.6,7.0,1,171570.0,309914.0,1,0
+598,Fully Paid,105798.0,Short Term,722.0,628197.0,1,Rent,Debt Consolidation,10312.82,14.5,14.0,1,149568.0,548042.0,1,0
+599,Fully Paid,66638.0,Short Term,726.0,1172718.0,1,Rent,Debt Consolidation,11203.54,8.9,10.0,0,126027.0,173316.0,0,0
+600,Charged Off,423214.0,Short Term,718.0,1186949.0,1,Rent,Debt Consolidation,25222.5,10.6,14.0,0,327484.0,820754.0,0,0
+601,Fully Paid,188298.0,Short Term,723.0,1281778.0,4,Rent,Debt Consolidation,21790.34,23.9,14.0,0,161063.0,409882.0,0,0
+602,Charged Off,111122.0,Short Term,693.0,767752.0,7,Rent,Business Loan,4184.18,10.1,3.0,0,35701.0,86658.0,0,0
+603,Fully Paid,259270.0,Short Term,741.0,1306193.0,10,Home Mortgage,Debt Consolidation,33090.21,21.0,10.0,0,498579.0,607046.0,0,0
+604,Charged Off,178948.0,Short Term,740.0,1352344.0,3,Rent,Other,25581.98,17.9,10.0,0,79952.0,183304.0,0,0
+605,Fully Paid,217338.0,Short Term,704.0,2721674.0,10,Rent,Debt Consolidation,29257.91,18.6,7.0,1,160493.0,239162.0,1,0
+606,Fully Paid,395846.0,Short Term,751.0,3228708.0,6,Home Mortgage,Debt Consolidation,31749.0,18.2,13.0,0,817589.0,2674232.0,0,0
+607,Fully Paid,560010.0,Long Term,719.0,5701140.0,4,Home Mortgage,Home Improvements,24942.44,8.4,9.0,0,76893.0,436414.0,0,0
+608,Fully Paid,287408.0,Short Term,699.0,992845.0,6,Rent,Debt Consolidation,6014.83,8.0,7.0,0,93005.0,192302.0,0,0
+609,Charged Off,623436.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,17820.1,15.0,27.0,0,448647.0,630454.0,0,0
+610,Fully Paid,259820.0,Short Term,726.0,1172718.0,0,Rent,Debt Consolidation,19026.98,9.9,8.0,1,181678.0,385308.0,1,0
+611,Fully Paid,107998.0,Short Term,750.0,634182.0,2,Rent,Debt Consolidation,14210.86,18.8,21.0,0,9177.0,2125178.0,0,0
+612,Charged Off,450912.0,Long Term,717.0,1168272.0,4,Rent,Debt Consolidation,19568.48,7.6,8.0,0,144780.0,315722.0,0,0
+613,Fully Paid,225808.0,Short Term,726.0,1172718.0,4,Rent,Debt Consolidation,5552.18,32.1,9.0,0,189449.0,753786.0,0,0
+614,Fully Paid,182028.0,Short Term,723.0,655025.0,5,Rent,Debt Consolidation,20251.15,5.0,5.0,0,134045.0,257818.0,0,0
+615,Fully Paid,448184.0,Short Term,726.0,1172718.0,5,Home Mortgage,Debt Consolidation,22256.41,12.8,14.0,0,352564.0,459206.0,0,0
+616,Charged Off,219604.0,Short Term,726.0,1172718.0,0,Home Mortgage,Debt Consolidation,9843.33,21.9,11.0,0,111245.0,326942.0,0,0
+617,Fully Paid,214764.0,Short Term,730.0,983041.0,3,Rent,Debt Consolidation,12697.51,13.4,19.0,0,209741.0,527956.0,0,0
+618,Fully Paid,320078.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,11364.85,19.1,12.0,0,393015.0,770000.0,0,0
+619,Fully Paid,175956.0,Short Term,749.0,664867.0,10,Home Mortgage,Debt Consolidation,13962.15,42.4,9.0,0,168511.0,1283700.0,0,0
+620,Charged Off,400400.0,Short Term,719.0,1152654.0,10,Home Mortgage,Debt Consolidation,28047.99,12.0,36.0,0,569962.0,1499916.0,0,0
+621,Fully Paid,626362.0,Long Term,726.0,1172718.0,2,Home Mortgage,Debt Consolidation,28106.13,22.0,13.0,0,526034.0,1602854.0,0,0
+622,Fully Paid,540364.0,Long Term,723.0,3387244.0,5,Home Mortgage,Debt Consolidation,29920.82,12.6,6.0,0,255987.0,432080.0,0,0
+623,Fully Paid,162074.0,Short Term,712.0,583224.0,1,Own Home,Debt Consolidation,4665.83,23.1,6.0,0,128231.0,159830.0,0,0
+624,Fully Paid,345136.0,Short Term,703.0,1117770.0,2,Rent,Buy House,6967.49,13.5,8.0,0,300846.0,556468.0,0,0
+625,Fully Paid,266794.0,Long Term,686.0,576042.0,0,Own Home,Debt Consolidation,12336.89,5.8,9.0,0,233206.0,342232.0,0,0
+626,Fully Paid,446160.0,Long Term,741.0,1541280.0,10,Own Home,Debt Consolidation,28256.8,22.1,10.0,0,235885.0,537658.0,0,0
+627,Fully Paid,347028.0,Short Term,743.0,1685889.0,4,Home Mortgage,Debt Consolidation,8836.9,16.9,13.0,1,127224.0,403612.0,1,0
+628,Fully Paid,267454.0,Short Term,726.0,1172718.0,4,Rent,Debt Consolidation,19455.81,13.8,17.0,0,434302.0,557502.0,0,0
+629,Fully Paid,220022.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,29528.66,22.0,12.0,0,356421.0,953106.0,0,0
+630,Fully Paid,283426.0,Long Term,738.0,1355688.0,10,Home Mortgage,Other,9015.31,22.8,7.0,0,342665.0,549538.0,0,0
+631,Fully Paid,270556.0,Short Term,724.0,1752408.0,10,Own Home,Home Improvements,24095.61,23.5,7.0,0,286387.0,908490.0,0,0
+632,Fully Paid,322476.0,Short Term,711.0,1262550.0,1,Own Home,Business Loan,24198.59,17.5,9.0,0,321024.0,477158.0,0,0
+633,Fully Paid,441364.0,Short Term,691.0,1315066.0,10,Home Mortgage,Debt Consolidation,16986.19,22.6,12.0,0,233035.0,439472.0,0,0
+634,Fully Paid,247786.0,Short Term,748.0,1361787.0,2,Home Mortgage,Debt Consolidation,13288.79,14.3,13.0,0,211831.0,1075800.0,0,0
+635,Fully Paid,334070.0,Short Term,704.0,927523.0,10,Rent,Debt Consolidation,5132.28,20.5,11.0,0,226537.0,495858.0,0,0
+636,Fully Paid,54824.0,Long Term,747.0,830813.0,10,Home Mortgage,Buy a Car,5130.38,24.2,13.0,0,76665.0,1431650.0,0,0
+637,Fully Paid,403480.0,Short Term,713.0,2710274.0,10,Own Home,Debt Consolidation,49236.6,16.5,14.0,0,673873.0,865040.0,0,0
+638,Charged Off,105468.0,Short Term,738.0,702088.0,4,Rent,Other,1006.24,9.4,13.0,0,28139.0,221650.0,0,0
+639,Fully Paid,137852.0,Short Term,732.0,1395227.0,10,Home Mortgage,Debt Consolidation,2813.71,21.2,10.0,0,76627.0,243078.0,0,0
+640,Fully Paid,131274.0,Short Term,723.0,543837.0,4,Rent,Debt Consolidation,10378.18,14.3,4.0,0,83942.0,126390.0,0,0
+641,Fully Paid,182116.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,3389.22,21.9,6.0,0,92663.0,264286.0,0,0
+642,Charged Off,46156.0,Short Term,654.0,1640745.0,6,Home Mortgage,Business Loan,31721.26,16.7,8.0,0,164008.0,199914.0,0,0
+643,Fully Paid,67496.0,Short Term,725.0,582825.0,10,Rent,Debt Consolidation,5925.34,5.5,5.0,0,33706.0,112486.0,0,0
+644,Fully Paid,172436.0,Short Term,740.0,1340222.0,7,Own Home,Debt Consolidation,14965.92,19.8,6.0,1,178410.0,398816.0,1,1
+645,Charged Off,788326.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,36388.61,22.0,28.0,0,565820.0,1353638.0,0,0
+646,Fully Paid,336732.0,Short Term,738.0,1970072.0,10,Home Mortgage,Debt Consolidation,35789.54,14.6,14.0,0,464987.0,749892.0,0,0
+647,Fully Paid,107932.0,Short Term,735.0,1211782.0,6,Home Mortgage,Home Improvements,28173.96,28.5,9.0,0,521322.0,658988.0,0,0
+648,Fully Paid,346060.0,Long Term,711.0,765833.0,10,Home Mortgage,Debt Consolidation,13402.03,21.1,9.0,1,61788.0,123354.0,1,0
+649,Fully Paid,217888.0,Short Term,735.0,1223144.0,8,Rent,Debt Consolidation,9163.51,10.8,8.0,0,117952.0,207570.0,0,0
+650,Charged Off,216524.0,Long Term,688.0,934990.0,4,Rent,Debt Consolidation,16050.63,11.0,10.0,0,113373.0,314072.0,0,0
+651,Charged Off,430804.0,Long Term,738.0,1130120.0,10,Home Mortgage,Debt Consolidation,8711.31,18.5,9.0,0,383667.0,789052.0,0,0
+652,Fully Paid,227546.0,Short Term,709.0,561450.0,6,Rent,Debt Consolidation,16141.64,17.3,10.0,1,269667.0,374858.0,1,1
+653,Fully Paid,560516.0,Short Term,652.0,1374897.0,4,Home Mortgage,Debt Consolidation,25160.75,22.2,15.0,0,354483.0,862290.0,0,0
+654,Fully Paid,470316.0,Long Term,719.0,2393487.0,2,Own Home,Debt Consolidation,27126.11,34.1,7.0,0,726484.0,1055450.0,0,0
+655,Charged Off,395846.0,Long Term,725.0,829597.0,1,Rent,Debt Consolidation,18251.02,27.7,10.0,1,273847.0,461560.0,1,0
+656,Charged Off,450120.0,Long Term,673.0,981578.0,10,Rent,Debt Consolidation,19467.78,16.5,15.0,0,515394.0,1143230.0,0,0
+657,Charged Off,399014.0,Short Term,722.0,2909945.0,2,Home Mortgage,Home Improvements,51409.06,12.8,12.0,0,938923.0,1248192.0,0,0
+658,Charged Off,116710.0,Short Term,726.0,1172718.0,9,Own Home,Debt Consolidation,10125.67,13.1,12.0,0,914812.0,2021470.0,0,0
+659,Fully Paid,270402.0,Long Term,690.0,1044373.0,10,Own Home,Debt Consolidation,17928.21,21.0,12.0,0,258305.0,441144.0,0,0
+660,Fully Paid,129184.0,Short Term,735.0,948366.0,1,Own Home,Buy a Car,9088.46,17.0,9.0,0,332139.0,467280.0,0,0
+661,Charged Off,247500.0,Long Term,664.0,1347955.0,7,Rent,Debt Consolidation,2976.73,10.6,4.0,0,98534.0,131604.0,0,0
+662,Fully Paid,109582.0,Short Term,744.0,813903.0,2,Rent,Debt Consolidation,11665.81,8.7,6.0,0,16910.0,89760.0,0,0
+663,Fully Paid,264924.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,12297.94,20.0,6.0,0,132924.0,249480.0,0,0
+664,Fully Paid,391314.0,Short Term,735.0,762660.0,1,Rent,Debt Consolidation,15062.63,13.0,18.0,0,351633.0,962522.0,0,0
+665,Fully Paid,520454.0,Long Term,716.0,1323825.0,5,Home Mortgage,Debt Consolidation,24049.63,12.8,9.0,0,441009.0,622732.0,0,0
+666,Fully Paid,330792.0,Long Term,733.0,1885522.0,10,Home Mortgage,Debt Consolidation,20897.72,31.4,13.0,1,138130.0,443058.0,1,0
+667,Fully Paid,222530.0,Short Term,690.0,595783.0,10,Own Home,Debt Consolidation,17327.05,19.5,9.0,0,385757.0,685058.0,0,0
+668,Charged Off,446820.0,Short Term,715.0,1254228.0,1,Rent,Debt Consolidation,6427.89,16.5,3.0,0,110903.0,214390.0,0,0
+669,Fully Paid,79530.0,Short Term,691.0,953990.0,7,Rent,Debt Consolidation,27029.78,19.0,10.0,0,371906.0,563640.0,0,0
+670,Charged Off,110814.0,Short Term,742.0,459325.0,4,Own Home,Debt Consolidation,8306.23,7.9,15.0,0,125153.0,296956.0,0,0
+671,Fully Paid,385308.0,Long Term,678.0,1823715.0,6,Rent,Other,6914.86,13.0,21.0,0,48944.0,57244.0,0,0
+672,Fully Paid,158620.0,Short Term,694.0,475665.0,5,Own Home,Home Improvements,3900.51,9.8,11.0,0,84835.0,383724.0,0,0
+673,Fully Paid,768856.0,Long Term,726.0,1172718.0,0,Rent,Debt Consolidation,59285.89,11.4,20.0,0,408082.0,806322.0,0,0
+674,Fully Paid,146366.0,Short Term,724.0,816753.0,4,Rent,Other,13864.3,12.8,12.0,0,168454.0,263560.0,0,0
+675,Fully Paid,435512.0,Short Term,745.0,1128372.0,10,Home Mortgage,Debt Consolidation,16925.58,27.0,9.0,0,242801.0,594396.0,0,0
+676,Fully Paid,130944.0,Short Term,720.0,584288.0,1,Rent,wedding,9835.54,10.4,4.0,0,43605.0,157322.0,0,0
+677,Fully Paid,134684.0,Short Term,735.0,579899.0,4,Rent,Debt Consolidation,7345.4,10.6,5.0,0,30115.0,65032.0,0,0
+678,Fully Paid,352220.0,Short Term,750.0,2129273.0,8,Home Mortgage,Home Improvements,10859.26,20.7,12.0,0,289180.0,667018.0,0,0
+679,Fully Paid,769230.0,Long Term,691.0,2799707.0,0,Home Mortgage,Debt Consolidation,63459.81,17.0,18.0,0,633536.0,1047926.0,0,0
+680,Fully Paid,360052.0,Short Term,719.0,721582.0,10,Home Mortgage,Debt Consolidation,13529.71,17.0,6.0,0,354730.0,416130.0,0,0
+681,Fully Paid,524524.0,Short Term,726.0,1172718.0,5,Home Mortgage,Debt Consolidation,15892.36,15.4,12.0,0,449236.0,959706.0,0,0
+682,Fully Paid,259028.0,Long Term,698.0,2469753.0,1,Home Mortgage,Debt Consolidation,22227.72,8.4,10.0,0,250705.0,468204.0,0,0
+683,Fully Paid,267542.0,Short Term,746.0,1578881.0,1,Rent,Debt Consolidation,15657.33,10.0,11.0,0,195966.0,387882.0,0,0
+684,Charged Off,174438.0,Short Term,726.0,1172718.0,10,Home Mortgage,Other,9476.63,17.0,5.0,0,84265.0,109032.0,0,0
+685,Fully Paid,249326.0,Short Term,726.0,1172718.0,5,Rent,Debt Consolidation,11548.58,10.2,8.0,0,250382.0,365134.0,0,0
+686,Fully Paid,221276.0,Short Term,743.0,1299486.0,5,Home Mortgage,Debt Consolidation,12345.25,20.8,12.0,1,74385.0,206030.0,1,0
+687,Fully Paid,222420.0,Short Term,712.0,2723840.0,5,Home Mortgage,Home Improvements,42446.57,18.3,17.0,0,563920.0,814176.0,0,0
+688,Fully Paid,402578.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,5097.32,16.3,8.0,0,211964.0,322102.0,0,0
+689,Fully Paid,280852.0,Short Term,738.0,1585930.0,10,Home Mortgage,Debt Consolidation,28811.03,22.6,13.0,0,276602.0,423654.0,0,0
+690,Fully Paid,386694.0,Short Term,740.0,1726910.0,10,Rent,Debt Consolidation,17412.93,11.8,8.0,0,298756.0,353694.0,0,0
+691,Charged Off,351692.0,Short Term,726.0,1172718.0,5,Rent,Debt Consolidation,27715.11,16.1,8.0,0,188708.0,272448.0,0,0
+692,Fully Paid,224092.0,Short Term,721.0,696730.0,4,Rent,Debt Consolidation,10683.13,7.7,7.0,0,119377.0,219736.0,0,0
+693,Fully Paid,65912.0,Short Term,732.0,948575.0,1,Own Home,Debt Consolidation,4956.34,15.4,8.0,0,159486.0,721402.0,0,0
+694,Charged Off,94908.0,Short Term,738.0,768170.0,7,Rent,Debt Consolidation,5281.24,15.4,10.0,0,213579.0,353782.0,0,0
+695,Fully Paid,157234.0,Short Term,726.0,1172718.0,6,Rent,Debt Consolidation,13398.04,15.7,17.0,0,169043.0,194370.0,0,0
+696,Fully Paid,294316.0,Short Term,726.0,1172718.0,0,Rent,Debt Consolidation,22443.94,15.7,8.0,0,306888.0,560494.0,0,0
+697,Fully Paid,220770.0,Short Term,741.0,591071.0,7,Rent,Debt Consolidation,12067.66,18.5,7.0,0,393585.0,525646.0,0,0
+698,Fully Paid,568414.0,Long Term,717.0,1116744.0,3,Home Mortgage,Debt Consolidation,12656.47,21.4,8.0,0,598044.0,969826.0,0,0
+699,Fully Paid,380512.0,Short Term,728.0,948594.0,8,Home Mortgage,Debt Consolidation,22845.22,15.9,27.0,0,348061.0,907676.0,0,0
+700,Fully Paid,177012.0,Short Term,726.0,1172718.0,4,Rent,Debt Consolidation,16275.59,9.3,11.0,0,155515.0,424688.0,0,0
+701,Fully Paid,227722.0,Short Term,673.0,578892.0,10,Rent,Other,13314.63,22.3,11.0,0,167124.0,435798.0,0,0
+702,Fully Paid,180290.0,Short Term,741.0,1297548.0,4,Home Mortgage,Debt Consolidation,16976.12,14.0,13.0,1,191159.0,799106.0,1,0
+703,Fully Paid,145552.0,Short Term,726.0,1172718.0,5,Home Mortgage,Debt Consolidation,10970.22,23.0,17.0,0,194959.0,832964.0,0,0
+704,Fully Paid,218614.0,Short Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,11894.57,12.7,9.0,0,64619.0,135564.0,0,0
+705,Charged Off,391314.0,Short Term,726.0,1172718.0,5,Rent,Debt Consolidation,19341.05,12.4,18.0,0,349771.0,433136.0,0,0
+706,Fully Paid,134882.0,Short Term,738.0,990223.0,5,Rent,Debt Consolidation,13780.51,22.6,12.0,0,33326.0,85338.0,0,0
+707,Fully Paid,79772.0,Short Term,703.0,1569381.0,10,Own Home,Debt Consolidation,33349.18,20.6,19.0,1,1175549.0,1824614.0,1,0
+708,Charged Off,216942.0,Short Term,735.0,599545.0,10,Own Home,Other,11691.27,14.0,12.0,1,159296.0,312620.0,1,0
+709,Fully Paid,64856.0,Short Term,722.0,1306991.0,10,Home Mortgage,Home Improvements,15139.2,24.5,4.0,0,51813.0,69212.0,0,0
+710,Fully Paid,171644.0,Short Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,17454.35,10.0,11.0,0,152551.0,500368.0,0,0
+711,Fully Paid,195206.0,Short Term,750.0,1015588.0,4,Home Mortgage,Debt Consolidation,12830.13,15.4,9.0,0,236170.0,836286.0,0,0
+712,Fully Paid,312422.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,16836.09,21.0,17.0,0,426018.0,510664.0,0,0
+713,Charged Off,467632.0,Long Term,726.0,1148436.0,10,Own Home,Debt Consolidation,9857.39,16.4,8.0,0,226708.0,418660.0,0,0
+714,Fully Paid,221826.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,15042.11,21.2,13.0,0,224808.0,321772.0,0,0
+715,Fully Paid,43714.0,Short Term,726.0,1172718.0,6,Rent,Debt Consolidation,3642.87,7.0,8.0,0,27968.0,152790.0,0,0
+716,Fully Paid,555060.0,Short Term,699.0,1143610.0,10,Home Mortgage,Other,15152.88,22.2,6.0,0,28690.0,64262.0,0,0
+717,Fully Paid,117722.0,Short Term,726.0,1172718.0,0,Rent,Other,19875.52,12.0,11.0,0,0.0,0.0,0,0
+718,Fully Paid,590414.0,Long Term,692.0,1243645.0,10,Home Mortgage,Home Improvements,4186.84,20.8,10.0,1,94145.0,502392.0,1,0
+719,Fully Paid,189002.0,Short Term,703.0,2431962.0,6,Rent,Other,24725.08,14.8,10.0,0,108471.0,156002.0,0,0
+720,Fully Paid,395538.0,Long Term,697.0,747213.0,6,Home Mortgage,Debt Consolidation,17933.15,28.1,15.0,0,621832.0,1046540.0,0,0
+721,Fully Paid,447920.0,Short Term,683.0,1005784.0,6,Home Mortgage,Debt Consolidation,7870.18,15.1,10.0,0,230888.0,286528.0,0,0
+722,Fully Paid,302588.0,Short Term,730.0,1133673.0,10,Rent,Debt Consolidation,7642.75,25.5,10.0,0,197524.0,309078.0,0,0
+723,Charged Off,785026.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,49394.87,21.7,7.0,0,431224.0,515812.0,0,0
+724,Fully Paid,315920.0,Long Term,726.0,1172718.0,9,Home Mortgage,Debt Consolidation,70936.88,24.0,17.0,0,361627.0,1172864.0,0,0
+725,Fully Paid,106106.0,Short Term,719.0,954579.0,3,Own Home,Debt Consolidation,4598.0,10.8,9.0,1,117344.0,358468.0,1,0
+726,Fully Paid,134332.0,Short Term,726.0,1172718.0,1,Home Mortgage,Debt Consolidation,12567.36,7.0,11.0,0,128383.0,297902.0,0,0
+727,Fully Paid,302764.0,Short Term,738.0,1531514.0,3,Rent,major_purchase,13400.7,11.0,18.0,0,201704.0,463430.0,0,0
+728,Fully Paid,747736.0,Long Term,646.0,1538696.0,6,Home Mortgage,Debt Consolidation,20644.07,18.0,7.0,1,167200.0,222772.0,0,0
+729,Fully Paid,216018.0,Short Term,736.0,1212656.0,2,Rent,Debt Consolidation,2647.65,21.6,6.0,0,76114.0,345620.0,0,0
+730,Fully Paid,132022.0,Long Term,695.0,665076.0,5,Rent,major_purchase,6983.26,23.0,5.0,0,286634.0,563486.0,0,0
+731,Fully Paid,181346.0,Short Term,726.0,1172718.0,8,Home Mortgage,Home Improvements,34339.65,20.3,23.0,0,365921.0,692318.0,0,0
+732,Fully Paid,129184.0,Short Term,751.0,1001186.0,10,Home Mortgage,Buy a Car,12097.68,24.9,4.0,0,386289.0,989560.0,0,0
+733,Charged Off,138160.0,Short Term,728.0,691828.0,10,Home Mortgage,Debt Consolidation,13548.14,20.6,8.0,0,72200.0,179014.0,0,0
+734,Fully Paid,303688.0,Long Term,703.0,950285.0,4,Home Mortgage,Debt Consolidation,14016.68,19.0,19.0,1,58520.0,376442.0,1,0
+735,Fully Paid,175604.0,Short Term,722.0,568746.0,1,Own Home,Debt Consolidation,8009.83,31.2,8.0,0,220932.0,366498.0,0,0
+736,Fully Paid,112332.0,Short Term,699.0,873050.0,10,Rent,Other,15787.48,17.2,7.0,0,175978.0,213356.0,0,0
+737,Charged Off,331188.0,Long Term,641.0,1525472.0,0,Rent,Debt Consolidation,17924.22,28.9,12.0,0,208506.0,253858.0,0,0
+738,Fully Paid,504284.0,Short Term,718.0,989919.0,1,Rent,Other,12209.02,11.4,17.0,0,220400.0,2126674.0,0,0
+739,Fully Paid,110242.0,Short Term,716.0,914014.0,1,Rent,Debt Consolidation,13481.64,15.0,11.0,0,62833.0,112442.0,0,0
+740,Fully Paid,401038.0,Short Term,714.0,1421941.0,5,Home Mortgage,Debt Consolidation,10356.52,15.3,22.0,0,357485.0,621500.0,0,0
+741,Fully Paid,457666.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,7381.31,39.0,4.0,0,173090.0,209198.0,0,0
+742,Charged Off,291258.0,Long Term,726.0,1172718.0,10,Rent,Debt Consolidation,19207.29,9.0,11.0,1,101251.0,331188.0,0,1
+743,Fully Paid,293744.0,Short Term,686.0,743318.0,9,Rent,Debt Consolidation,11211.71,16.8,4.0,1,351842.0,442332.0,1,0
+744,Fully Paid,214456.0,Short Term,718.0,1543408.0,2,Rent,Debt Consolidation,35627.09,14.9,13.0,0,140049.0,337106.0,0,0
+745,Fully Paid,485782.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,21325.41,12.7,8.0,0,423339.0,634128.0,0,0
+746,Charged Off,672804.0,Long Term,720.0,2699976.0,4,Home Mortgage,Debt Consolidation,33299.78,16.1,11.0,0,456836.0,1147432.0,0,0
+747,Fully Paid,391732.0,Long Term,716.0,845766.0,5,Home Mortgage,Debt Consolidation,14096.1,15.6,11.0,1,150366.0,191532.0,1,0
+748,Fully Paid,92092.0,Short Term,723.0,852188.0,8,Rent,Other,10439.17,12.4,6.0,0,124583.0,142560.0,0,0
+749,Fully Paid,614108.0,Long Term,682.0,1444722.0,7,Rent,Debt Consolidation,39489.03,14.2,14.0,0,343425.0,649770.0,0,0
+750,Fully Paid,214896.0,Short Term,726.0,2301337.0,1,Home Mortgage,Home Improvements,20328.48,14.8,18.0,1,190779.0,563508.0,1,0
+751,Fully Paid,328790.0,Long Term,719.0,1390838.0,10,Rent,Debt Consolidation,6687.62,14.0,8.0,1,199253.0,467060.0,1,0
+752,Charged Off,325776.0,Short Term,739.0,1312976.0,10,Rent,Debt Consolidation,23852.41,15.6,18.0,0,319143.0,1144088.0,0,0
+753,Fully Paid,75328.0,Long Term,726.0,1172718.0,0,Own Home,major_purchase,3401.95,22.7,9.0,0,56772.0,792000.0,0,0
+754,Charged Off,266882.0,Short Term,698.0,1382915.0,10,Rent,Debt Consolidation,21976.73,22.5,10.0,0,257678.0,336006.0,0,0
+755,Fully Paid,171380.0,Short Term,747.0,801762.0,10,Home Mortgage,Home Improvements,9393.98,26.1,6.0,0,3059.0,354574.0,0,0
+756,Fully Paid,225126.0,Short Term,719.0,1788736.0,7,Home Mortgage,Buy House,15055.03,19.3,21.0,0,329593.0,529320.0,0,0
+757,Fully Paid,565840.0,Short Term,734.0,1582377.0,9,Home Mortgage,Debt Consolidation,39032.08,15.4,12.0,0,434872.0,840620.0,0,0
+758,Fully Paid,155452.0,Short Term,743.0,1726074.0,10,Home Mortgage,Debt Consolidation,36822.95,23.0,24.0,0,216999.0,370612.0,0,0
+759,Fully Paid,134288.0,Short Term,723.0,869801.0,10,Home Mortgage,Debt Consolidation,13336.86,15.4,10.0,0,267007.0,411664.0,0,0
+760,Fully Paid,117084.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,12386.1,17.1,5.0,1,10184.0,92070.0,1,0
+761,Fully Paid,285670.0,Short Term,744.0,934515.0,4,Rent,Debt Consolidation,6074.3,14.4,10.0,0,192907.0,474232.0,0,0
+762,Charged Off,519244.0,Long Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,20140.57,20.0,8.0,1,414238.0,811580.0,1,0
+763,Fully Paid,70136.0,Short Term,705.0,946295.0,10,Home Mortgage,Debt Consolidation,23814.98,23.1,9.0,0,77425.0,146740.0,0,0
+764,Fully Paid,594000.0,Short Term,685.0,1069966.0,10,Home Mortgage,Home Improvements,14979.41,8.5,10.0,0,360848.0,1001968.0,0,0
+765,Charged Off,99704.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,3333.93,18.5,6.0,1,98211.0,190476.0,1,0
+766,Fully Paid,268532.0,Short Term,720.0,1855369.0,5,Home Mortgage,Debt Consolidation,28912.87,11.0,13.0,0,159847.0,404998.0,0,0
+767,Fully Paid,335808.0,Short Term,726.0,1172718.0,1,Home Mortgage,Debt Consolidation,14210.86,17.7,11.0,0,376599.0,765006.0,0,0
+768,Fully Paid,550770.0,Long Term,715.0,4090719.0,8,Home Mortgage,Home Improvements,40566.14,25.8,14.0,0,605226.0,1101848.0,0,0
+769,Fully Paid,174548.0,Short Term,726.0,1172718.0,6,Rent,vacation,6339.54,19.8,13.0,0,4902.0,1891032.0,0,0
+770,Fully Paid,151096.0,Short Term,747.0,1134642.0,9,Rent,Debt Consolidation,18437.98,16.5,8.0,1,101004.0,622072.0,1,0
+771,Fully Paid,460570.0,Short Term,726.0,1172718.0,0,Home Mortgage,Debt Consolidation,26730.53,15.5,10.0,0,316673.0,528330.0,0,0
+772,Charged Off,171644.0,Short Term,748.0,1111728.0,10,Rent,Debt Consolidation,26959.48,17.2,10.0,0,183844.0,716738.0,0,0
+773,Fully Paid,220968.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,8667.23,30.4,6.0,1,333260.0,565818.0,1,1
+774,Charged Off,223762.0,Short Term,734.0,618393.0,10,Own Home,Debt Consolidation,15408.24,28.2,19.0,0,469338.0,958452.0,0,0
+775,Charged Off,522456.0,Long Term,705.0,1302469.0,10,Home Mortgage,Debt Consolidation,35492.19,35.0,15.0,0,589095.0,1188330.0,0,0
+776,Charged Off,448316.0,Long Term,726.0,1172718.0,8,Home Mortgage,Home Improvements,18487.95,19.5,5.0,0,64182.0,78474.0,0,0
+777,Fully Paid,616484.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,22659.78,20.6,10.0,0,407474.0,587554.0,0,0
+778,Fully Paid,646206.0,Short Term,714.0,3069488.0,7,Home Mortgage,Business Loan,50902.14,16.4,10.0,0,738834.0,911064.0,0,0
+779,Fully Paid,522610.0,Short Term,728.0,1067515.0,0,Home Mortgage,Debt Consolidation,24997.54,30.0,15.0,0,759373.0,953656.0,0,0
+780,Fully Paid,325292.0,Short Term,707.0,1217349.0,0,Rent,Debt Consolidation,25361.39,16.7,10.0,0,298490.0,366498.0,0,0
+781,Fully Paid,551166.0,Long Term,725.0,2878842.0,10,Home Mortgage,Medical Bills,35721.52,23.0,9.0,0,243637.0,657602.0,0,0
+782,Fully Paid,375298.0,Short Term,728.0,926041.0,10,Home Mortgage,Debt Consolidation,17054.59,27.9,12.0,0,319751.0,433532.0,0,0
+783,Charged Off,349360.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,17254.66,19.9,17.0,0,497135.0,650452.0,0,0
+784,Fully Paid,387970.0,Short Term,726.0,1172718.0,1,Rent,Debt Consolidation,12942.99,14.4,7.0,0,248121.0,355586.0,0,0
+785,Fully Paid,120670.0,Short Term,742.0,654227.0,2,Home Mortgage,Debt Consolidation,6324.15,18.3,8.0,0,282701.0,743952.0,0,0
+786,Fully Paid,162932.0,Short Term,748.0,844227.0,6,Home Mortgage,Home Improvements,13380.94,19.4,8.0,0,139555.0,299244.0,0,0
+787,Fully Paid,520542.0,Short Term,743.0,1251435.0,4,Home Mortgage,Debt Consolidation,25132.82,15.7,14.0,0,593769.0,887128.0,0,0
+788,Charged Off,298760.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,11952.14,17.3,9.0,1,191786.0,329494.0,1,0
+789,Charged Off,391248.0,Long Term,669.0,1392719.0,10,Home Mortgage,Home Improvements,33773.26,14.9,18.0,0,336775.0,432784.0,0,0
+790,Fully Paid,523292.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,31635.95,27.4,15.0,0,634334.0,1268564.0,0,0
+791,Fully Paid,108834.0,Long Term,704.0,1447344.0,8,Rent,Other,11168.58,11.0,4.0,0,48868.0,239778.0,0,0
+792,Fully Paid,333608.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,9243.5,14.6,9.0,0,135394.0,875798.0,0,0
+793,Charged Off,264616.0,Long Term,731.0,1333059.0,10,Home Mortgage,Debt Consolidation,23995.1,24.0,8.0,0,289864.0,509300.0,0,0
+794,Fully Paid,549516.0,Short Term,726.0,1172718.0,3,Home Mortgage,Debt Consolidation,30016.77,22.3,10.0,0,481232.0,1061390.0,0,0
+795,Fully Paid,356290.0,Long Term,726.0,1172718.0,6,Home Mortgage,Debt Consolidation,26534.64,13.8,9.0,0,334343.0,427768.0,0,0
+796,Fully Paid,155254.0,Short Term,730.0,1448028.0,10,Home Mortgage,Other,15928.46,18.7,14.0,1,282131.0,540870.0,1,0
+797,Charged Off,109692.0,Short Term,735.0,625252.0,5,Rent,Debt Consolidation,5679.29,17.4,9.0,0,99180.0,256916.0,0,0
+798,Fully Paid,312818.0,Short Term,740.0,1088111.0,6,Rent,Debt Consolidation,20220.75,11.3,6.0,0,356117.0,556468.0,0,0
+799,Charged Off,414414.0,Short Term,740.0,813732.0,5,Home Mortgage,Debt Consolidation,4428.14,9.2,9.0,0,87286.0,279202.0,0,0
+800,Fully Paid,43824.0,Short Term,720.0,408709.0,10,Home Mortgage,Home Improvements,8106.16,26.0,7.0,0,227278.0,359502.0,0,0
+801,Fully Paid,172700.0,Short Term,723.0,775542.0,10,Rent,Debt Consolidation,19840.94,14.9,12.0,1,109269.0,213708.0,1,0
+802,Fully Paid,64988.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,7577.96,23.1,9.0,0,5833.0,1126620.0,0,0
+803,Fully Paid,269104.0,Long Term,715.0,1297567.0,10,Home Mortgage,Home Improvements,13624.52,20.3,20.0,1,182020.0,609158.0,1,0
+804,Fully Paid,327096.0,Short Term,735.0,903982.0,2,Home Mortgage,Debt Consolidation,25612.57,17.9,17.0,1,178524.0,410124.0,1,1
+805,Fully Paid,449636.0,Short Term,721.0,2524093.0,0,Rent,Debt Consolidation,20339.88,16.4,17.0,0,523697.0,1295668.0,0,0
+806,Fully Paid,214566.0,Short Term,694.0,965105.0,7,Rent,Debt Consolidation,8525.11,14.8,5.0,1,127452.0,163064.0,1,0
+807,Fully Paid,306064.0,Short Term,726.0,1172718.0,4,Own Home,Other,5997.92,18.3,3.0,0,321784.0,412610.0,0,0
+808,Charged Off,438636.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,21876.98,14.0,18.0,1,189601.0,359898.0,0,1
+809,Fully Paid,87252.0,Short Term,746.0,1789667.0,2,Home Mortgage,Debt Consolidation,16121.88,14.6,9.0,0,315609.0,609070.0,0,0
+810,Fully Paid,143506.0,Short Term,739.0,896135.0,9,Rent,Debt Consolidation,13740.61,10.4,12.0,1,148504.0,428824.0,1,0
+811,Fully Paid,183348.0,Short Term,726.0,1172718.0,2,Rent,Debt Consolidation,8708.65,19.4,5.0,0,154470.0,436260.0,0,0
+812,Fully Paid,92642.0,Long Term,689.0,571539.0,2,Rent,Home Improvements,5924.96,12.1,6.0,0,26961.0,90464.0,0,0
+813,Fully Paid,214874.0,Long Term,731.0,1540254.0,10,Rent,Debt Consolidation,19766.65,13.5,10.0,0,155477.0,346214.0,0,0
+814,Fully Paid,372196.0,Long Term,665.0,1243645.0,5,Home Mortgage,Debt Consolidation,10778.13,16.0,6.0,0,147269.0,212608.0,0,0
+815,Fully Paid,153780.0,Short Term,710.0,531202.0,3,Own Home,Other,8632.08,18.0,8.0,0,72637.0,426976.0,0,0
+816,Fully Paid,787644.0,Long Term,683.0,1749159.0,10,Home Mortgage,Debt Consolidation,24634.07,22.1,17.0,0,362406.0,670340.0,0,0
+817,Charged Off,222816.0,Short Term,725.0,1520209.0,7,Rent,Debt Consolidation,12491.17,17.5,7.0,1,71079.0,104720.0,1,0
+818,Charged Off,268730.0,Long Term,681.0,1218432.0,2,Rent,Debt Consolidation,19819.66,16.3,6.0,0,265677.0,383086.0,0,0
+819,Fully Paid,225214.0,Short Term,726.0,1172718.0,6,Rent,Debt Consolidation,18186.04,12.9,10.0,0,131917.0,669922.0,0,0
+820,Charged Off,179432.0,Short Term,726.0,1172718.0,9,Home Mortgage,Debt Consolidation,22775.11,15.7,27.0,0,307154.0,545468.0,0,0
+821,Fully Paid,479490.0,Long Term,680.0,2032924.0,10,Own Home,Debt Consolidation,29477.36,12.8,16.0,0,674956.0,1289640.0,0,0
+822,Charged Off,464904.0,Long Term,726.0,1172718.0,0,Home Mortgage,Debt Consolidation,19700.53,32.1,12.0,0,402173.0,1065592.0,0,0
+823,Fully Paid,458700.0,Long Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,13455.99,35.4,10.0,1,212173.0,486508.0,1,0
+824,Charged Off,760298.0,Long Term,654.0,2251272.0,5,Rent,Other,20261.41,14.7,10.0,0,651358.0,836132.0,0,0
+825,Fully Paid,151822.0,Short Term,723.0,936605.0,4,Rent,Debt Consolidation,7625.46,12.1,3.0,0,49495.0,119372.0,0,0
+826,Fully Paid,46486.0,Short Term,747.0,420679.0,1,Home Mortgage,Debt Consolidation,8974.27,26.1,16.0,0,240103.0,476080.0,0,0
+827,Charged Off,562826.0,Long Term,699.0,1060884.0,10,Home Mortgage,Debt Consolidation,25107.74,21.4,12.0,0,442757.0,845988.0,0,0
+828,Fully Paid,168102.0,Short Term,714.0,427272.0,5,Rent,Debt Consolidation,13815.28,9.9,18.0,0,122227.0,550660.0,0,0
+829,Fully Paid,387310.0,Long Term,708.0,1368418.0,10,Rent,Debt Consolidation,14368.37,22.9,3.0,0,234422.0,380688.0,0,0
+830,Fully Paid,334092.0,Short Term,737.0,1442670.0,10,Home Mortgage,Home Improvements,16350.26,26.5,10.0,0,95950.0,178310.0,0,0
+831,Fully Paid,776776.0,Long Term,702.0,2491736.0,10,Home Mortgage,Debt Consolidation,42774.89,29.9,14.0,0,941963.0,1076702.0,0,0
+832,Fully Paid,274274.0,Short Term,747.0,1540672.0,3,Rent,Debt Consolidation,8640.63,7.8,10.0,0,104538.0,500170.0,0,0
+833,Fully Paid,268928.0,Long Term,726.0,1172718.0,5,Own Home,Debt Consolidation,16369.83,25.0,14.0,0,253688.0,551122.0,0,0
+834,Fully Paid,172040.0,Short Term,705.0,722988.0,3,Rent,Debt Consolidation,5850.1,11.4,8.0,0,142082.0,413358.0,0,0
+835,Fully Paid,67584.0,Short Term,716.0,856140.0,10,Home Mortgage,Debt Consolidation,9417.54,12.3,9.0,0,198265.0,565422.0,0,0
+836,Fully Paid,258060.0,Short Term,695.0,1634380.0,10,Home Mortgage,Home Improvements,3895.19,19.4,8.0,1,50787.0,187308.0,0,1
+837,Fully Paid,188606.0,Short Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,24487.01,26.3,11.0,0,638552.0,885456.0,0,0
+838,Fully Paid,196658.0,Short Term,732.0,650655.0,0,Rent,Debt Consolidation,15073.46,15.0,7.0,0,190684.0,307934.0,0,0
+839,Charged Off,552442.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,17821.24,13.8,8.0,0,596486.0,845394.0,0,0
+840,Fully Paid,267652.0,Short Term,726.0,1172718.0,4,Home Mortgage,Other,1035.31,14.5,5.0,1,40945.0,338712.0,1,0
+841,Fully Paid,335720.0,Short Term,728.0,966435.0,8,Rent,Debt Consolidation,9181.18,8.7,12.0,0,226974.0,722018.0,0,0
+842,Fully Paid,178508.0,Short Term,739.0,2312604.0,1,Own Home,Debt Consolidation,21777.04,21.3,9.0,0,134216.0,636878.0,0,0
+843,Fully Paid,346258.0,Short Term,742.0,1626058.0,10,Home Mortgage,Debt Consolidation,4634.29,15.0,8.0,0,307724.0,525514.0,0,0
+844,Fully Paid,132968.0,Short Term,728.0,880460.0,10,Rent,Debt Consolidation,9465.04,21.9,9.0,1,107578.0,177936.0,1,0
+845,Fully Paid,218900.0,Short Term,748.0,1890500.0,1,Rent,Debt Consolidation,12745.2,10.8,9.0,0,171551.0,928180.0,0,0
+846,Fully Paid,510334.0,Long Term,718.0,900239.0,1,Rent,Debt Consolidation,15266.5,23.6,8.0,0,361665.0,549582.0,0,0
+847,Fully Paid,759308.0,Short Term,680.0,2950909.0,0,Home Mortgage,Home Improvements,30738.77,28.3,14.0,0,692075.0,1282138.0,0,0
+848,Fully Paid,132550.0,Short Term,654.0,622478.0,5,Rent,Debt Consolidation,14213.14,15.6,14.0,1,178391.0,320760.0,1,0
+849,Fully Paid,307538.0,Short Term,739.0,1043442.0,6,Rent,Debt Consolidation,22259.83,9.0,10.0,0,170525.0,399674.0,0,0
+850,Charged Off,582912.0,Long Term,685.0,1411472.0,6,Home Mortgage,Debt Consolidation,10162.53,14.7,12.0,0,373255.0,1445422.0,0,0
+851,Fully Paid,98252.0,Short Term,725.0,1602897.0,10,Home Mortgage,Home Improvements,34328.63,34.3,15.0,0,335825.0,430144.0,0,0
+852,Charged Off,241538.0,Short Term,726.0,1172718.0,4,Home Mortgage,Debt Consolidation,12057.02,38.5,18.0,0,391837.0,790438.0,0,0
+853,Fully Paid,751300.0,Short Term,716.0,3614978.0,6,Home Mortgage,Debt Consolidation,72600.71,11.9,29.0,0,957752.0,2128522.0,0,0
+854,Fully Paid,248248.0,Short Term,710.0,618089.0,10,Rent,Other,6953.62,12.8,6.0,0,51585.0,136378.0,0,0
+855,Fully Paid,82126.0,Short Term,717.0,2015672.0,1,Rent,Debt Consolidation,23180.38,24.0,8.0,0,157016.0,242088.0,0,0
+856,Charged Off,108834.0,Short Term,726.0,1172718.0,0,Rent,Debt Consolidation,13392.72,16.0,10.0,0,224428.0,315766.0,0,0
+857,Charged Off,523204.0,Long Term,739.0,1694439.0,10,Home Mortgage,Debt Consolidation,28240.65,19.6,10.0,0,339055.0,594836.0,0,0
+858,Fully Paid,150744.0,Short Term,726.0,1172718.0,3,Rent,Debt Consolidation,17297.22,14.5,9.0,0,171893.0,318956.0,0,0
+859,Fully Paid,223784.0,Short Term,726.0,1172718.0,8,Own Home,Debt Consolidation,18060.07,31.0,14.0,0,399000.0,1279784.0,0,0
+860,Charged Off,477818.0,Long Term,726.0,1172718.0,10,Rent,Other,8310.41,21.3,12.0,0,65265.0,469348.0,0,0
+861,Fully Paid,332970.0,Long Term,723.0,996892.0,0,Rent,Debt Consolidation,19190.19,12.8,14.0,0,209836.0,310684.0,0,0
+862,Fully Paid,267608.0,Short Term,726.0,1172718.0,3,Rent,Debt Consolidation,49354.59,16.2,12.0,0,374224.0,743270.0,0,0
+863,Charged Off,216238.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,5168.38,31.7,2.0,0,155629.0,237710.0,0,0
+864,Fully Paid,351516.0,Short Term,726.0,1172718.0,9,Home Mortgage,Home Improvements,38737.39,16.0,26.0,0,562419.0,1528736.0,0,0
+865,Charged Off,481470.0,Long Term,722.0,717630.0,4,Home Mortgage,Business Loan,13850.43,18.5,13.0,0,326097.0,733172.0,0,0
+866,Fully Paid,215468.0,Short Term,726.0,1172718.0,3,Rent,Debt Consolidation,19353.02,14.5,10.0,0,235334.0,318714.0,0,0
+867,Fully Paid,154594.0,Short Term,722.0,434853.0,10,Home Mortgage,Debt Consolidation,2290.26,33.7,8.0,1,67792.0,130372.0,1,1
+868,Charged Off,367796.0,Short Term,710.0,1172566.0,5,Home Mortgage,Debt Consolidation,34101.96,11.5,12.0,0,338352.0,590018.0,0,0
+869,Charged Off,769230.0,Long Term,738.0,2694257.0,10,Home Mortgage,Debt Consolidation,10081.02,27.1,6.0,0,210349.0,727056.0,0,0
+870,Fully Paid,108988.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,6395.78,22.0,13.0,1,94734.0,314270.0,1,0
+871,Fully Paid,353826.0,Long Term,726.0,1172718.0,2,Own Home,Debt Consolidation,13120.83,20.0,2.0,0,200355.0,245498.0,0,0
+872,Charged Off,348722.0,Short Term,726.0,1172718.0,4,Rent,Debt Consolidation,5872.9,19.0,10.0,0,340860.0,568678.0,0,0
+873,Fully Paid,333168.0,Long Term,682.0,1163750.0,5,Home Mortgage,Debt Consolidation,24632.55,8.5,21.0,0,325109.0,484484.0,0,0
+874,Charged Off,752840.0,Short Term,726.0,1172718.0,4,Own Home,Debt Consolidation,39159.95,29.5,13.0,0,746624.0,979066.0,0,0
+875,Charged Off,180180.0,Short Term,726.0,1172718.0,5,Rent,Debt Consolidation,8597.12,25.9,4.0,0,169309.0,306328.0,0,0
+876,Fully Paid,667062.0,Short Term,725.0,1843513.0,10,Home Mortgage,Home Improvements,31800.68,18.5,17.0,0,148200.0,1372734.0,0,0
+877,Charged Off,181984.0,Short Term,693.0,562932.0,10,Home Mortgage,Debt Consolidation,15434.08,22.5,14.0,1,72257.0,228624.0,1,0
+878,Fully Paid,142186.0,Short Term,705.0,793459.0,1,Home Mortgage,Debt Consolidation,16464.07,28.9,8.0,1,85291.0,216590.0,1,0
+879,Fully Paid,225830.0,Long Term,681.0,2250360.0,7,Home Mortgage,Debt Consolidation,27004.32,18.9,11.0,1,270579.0,417758.0,1,0
+880,Charged Off,469898.0,Long Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,19131.67,38.9,21.0,0,478743.0,1047882.0,0,0
+881,Charged Off,466884.0,Long Term,726.0,1172718.0,2,Rent,Debt Consolidation,15157.06,8.3,11.0,0,287375.0,458964.0,0,0
+882,Fully Paid,403810.0,Long Term,674.0,1375581.0,2,Rent,Debt Consolidation,13182.58,28.4,9.0,0,215422.0,376794.0,0,0
+883,Fully Paid,133496.0,Short Term,709.0,480415.0,6,Rent,Debt Consolidation,11209.62,17.5,12.0,0,65018.0,173448.0,0,0
+884,Fully Paid,40524.0,Short Term,719.0,671194.0,10,Rent,major_purchase,10515.17,11.0,14.0,1,380.0,450296.0,1,0
+885,Fully Paid,455400.0,Short Term,732.0,1375581.0,10,Home Mortgage,Debt Consolidation,23384.82,19.7,7.0,0,186352.0,242198.0,0,0
+886,Fully Paid,540430.0,Short Term,740.0,1493552.0,10,Home Mortgage,Debt Consolidation,16130.43,20.5,11.0,0,314222.0,1467092.0,0,0
+887,Fully Paid,299420.0,Long Term,677.0,836589.0,7,Home Mortgage,Debt Consolidation,6748.42,22.8,7.0,1,99142.0,204622.0,1,0
+888,Fully Paid,451462.0,Long Term,698.0,2228016.0,10,Home Mortgage,Debt Consolidation,14890.49,13.0,8.0,0,333051.0,494406.0,0,0
+889,Charged Off,203544.0,Short Term,728.0,532114.0,2,Rent,Debt Consolidation,9045.9,17.9,6.0,0,237728.0,277200.0,0,0
+890,Fully Paid,399410.0,Long Term,726.0,1172718.0,10,Home Mortgage,Home Improvements,25316.36,18.6,10.0,0,265259.0,933570.0,0,0
+891,Charged Off,217734.0,Short Term,731.0,1222289.0,10,Home Mortgage,Debt Consolidation,25158.66,33.4,13.0,0,533691.0,1407626.0,0,0
+892,Fully Paid,111496.0,Short Term,741.0,1328822.0,7,Home Mortgage,Other,20264.64,13.9,20.0,0,578778.0,820270.0,0,0
+893,Fully Paid,268840.0,Short Term,738.0,1528474.0,10,Rent,Debt Consolidation,30187.2,27.4,11.0,1,250268.0,434456.0,1,0
+894,Charged Off,216876.0,Short Term,726.0,1172718.0,7,Home Mortgage,Debt Consolidation,20322.21,19.2,20.0,0,309225.0,494516.0,0,0
+895,Fully Paid,533126.0,Long Term,744.0,3069488.0,10,Home Mortgage,Debt Consolidation,27369.69,16.7,11.0,0,631161.0,1163734.0,0,0
+896,Fully Paid,456918.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,58126.7,13.4,11.0,0,110333.0,271854.0,0,0
+897,Fully Paid,183326.0,Short Term,707.0,1248053.0,2,Own Home,Debt Consolidation,15392.47,11.4,13.0,0,266361.0,403172.0,0,0
+898,Fully Paid,104390.0,Short Term,739.0,1059497.0,10,Home Mortgage,Debt Consolidation,3920.08,39.4,4.0,1,25536.0,42856.0,1,0
+899,Fully Paid,330792.0,Short Term,726.0,1172718.0,4,Home Mortgage,Debt Consolidation,8173.04,22.6,7.0,0,293816.0,483956.0,0,0
+900,Charged Off,98406.0,Short Term,684.0,660953.0,3,Rent,Debt Consolidation,4742.4,17.4,8.0,0,153121.0,244882.0,0,0
+901,Fully Paid,217338.0,Short Term,746.0,1595468.0,1,Home Mortgage,Debt Consolidation,33504.6,12.7,11.0,0,104462.0,326018.0,0,0
+902,Charged Off,683848.0,Long Term,726.0,1172718.0,0,Rent,Debt Consolidation,31104.9,13.2,28.0,0,791407.0,1905134.0,0,0
+903,Fully Paid,140910.0,Short Term,726.0,1172718.0,2,Own Home,Debt Consolidation,6180.13,14.8,3.0,0,148067.0,179740.0,0,0
+904,Fully Paid,367598.0,Long Term,708.0,821712.0,6,Rent,Debt Consolidation,22870.87,9.9,12.0,0,262295.0,560340.0,0,0
+905,Charged Off,120472.0,Short Term,726.0,1172718.0,1,Home Mortgage,Debt Consolidation,15783.49,15.6,15.0,0,208202.0,572616.0,0,0
+906,Charged Off,230318.0,Long Term,707.0,1338778.0,5,Rent,Debt Consolidation,18631.4,10.2,14.0,1,181013.0,671814.0,0,0
+907,Fully Paid,439692.0,Short Term,744.0,2278404.0,6,Home Mortgage,Debt Consolidation,26201.57,30.5,15.0,0,565307.0,1228084.0,0,0
+908,Fully Paid,48246.0,Short Term,655.0,787797.0,3,Home Mortgage,Home Improvements,2934.55,10.0,14.0,0,117686.0,293700.0,0,0
+909,Fully Paid,216304.0,Short Term,726.0,1172718.0,0,Own Home,Debt Consolidation,34123.62,27.0,18.0,0,372058.0,596706.0,0,0
+910,Fully Paid,564498.0,Short Term,742.0,1875110.0,10,Home Mortgage,Debt Consolidation,20001.3,32.7,20.0,0,434131.0,672914.0,0,0
+911,Fully Paid,360404.0,Short Term,738.0,875444.0,2,Rent,Other,14809.36,10.1,10.0,0,235277.0,574750.0,0,0
+912,Charged Off,250866.0,Short Term,741.0,965105.0,2,Home Mortgage,Debt Consolidation,8444.74,10.8,10.0,0,285361.0,569690.0,0,0
+913,Fully Paid,612260.0,Short Term,678.0,1665692.0,10,Rent,Other,20821.34,16.0,13.0,0,310289.0,650870.0,0,0
+914,Fully Paid,110440.0,Short Term,750.0,1068142.0,10,Home Mortgage,Debt Consolidation,8144.73,18.5,14.0,0,98154.0,1148026.0,0,0
+915,Fully Paid,131956.0,Short Term,737.0,569829.0,6,Rent,Debt Consolidation,13723.32,11.4,10.0,0,184243.0,237578.0,0,0
+916,Fully Paid,420684.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,9391.89,17.5,7.0,1,161310.0,415976.0,1,0
+917,Fully Paid,52932.0,Short Term,704.0,2247377.0,2,Home Mortgage,Other,54124.35,21.1,17.0,0,684019.0,1001308.0,0,0
+918,Fully Paid,437580.0,Short Term,747.0,982566.0,0,Rent,Business Loan,17931.82,14.1,11.0,0,78926.0,613360.0,0,0
+919,Fully Paid,268598.0,Short Term,726.0,1172718.0,10,Home Mortgage,Home Improvements,1997.47,14.5,6.0,1,56620.0,286286.0,1,0
+920,Charged Off,425524.0,Long Term,726.0,827032.0,10,Home Mortgage,Debt Consolidation,20813.36,31.4,12.0,0,389367.0,1022318.0,0,0
+921,Charged Off,525910.0,Long Term,726.0,1172718.0,10,Rent,Debt Consolidation,26756.37,20.6,11.0,0,480567.0,877690.0,0,0
+922,Fully Paid,467126.0,Short Term,737.0,3487640.0,7,Rent,Debt Consolidation,24064.64,22.1,11.0,0,890302.0,1285394.0,0,0
+923,Fully Paid,577764.0,Long Term,715.0,1135098.0,3,Home Mortgage,Home Improvements,10688.83,17.8,4.0,0,46987.0,591448.0,0,0
+924,Fully Paid,234740.0,Short Term,726.0,1172718.0,4,Rent,Debt Consolidation,14366.09,12.3,6.0,0,120004.0,300124.0,0,0
+925,Fully Paid,390038.0,Long Term,708.0,1039433.0,10,Rent,Debt Consolidation,27631.89,14.4,16.0,0,384389.0,883080.0,0,0
+926,Fully Paid,111364.0,Short Term,732.0,1250200.0,10,Home Mortgage,Debt Consolidation,23336.75,19.8,21.0,1,280193.0,688820.0,1,0
+927,Fully Paid,222750.0,Short Term,744.0,1442822.0,6,Home Mortgage,Debt Consolidation,21161.25,29.0,12.0,0,528390.0,1477828.0,0,0
+928,Fully Paid,44748.0,Short Term,736.0,734274.0,6,Own Home,Debt Consolidation,10035.04,8.3,9.0,0,97052.0,597784.0,0,0
+929,Fully Paid,21934.0,Short Term,702.0,729087.0,5,Rent,Other,16039.8,15.3,10.0,0,135166.0,256586.0,0,0
+930,Fully Paid,252648.0,Short Term,743.0,1626951.0,10,Own Home,Debt Consolidation,32810.15,17.8,19.0,1,182457.0,800206.0,0,0
+931,Charged Off,215314.0,Short Term,732.0,843125.0,6,Rent,Debt Consolidation,15667.97,18.3,14.0,0,192907.0,279906.0,0,0
+932,Fully Paid,130746.0,Short Term,742.0,1674945.0,5,Home Mortgage,Debt Consolidation,11780.38,14.2,6.0,0,54245.0,106788.0,0,0
+933,Fully Paid,115566.0,Short Term,726.0,1172718.0,8,Home Mortgage,Debt Consolidation,17219.13,15.2,13.0,1,116375.0,383878.0,1,0
+934,Charged Off,52074.0,Short Term,737.0,877021.0,7,Rent,Debt Consolidation,4743.16,16.7,7.0,0,127889.0,315766.0,0,0
+935,Charged Off,55286.0,Short Term,704.0,1909880.0,0,Home Mortgage,Other,14737.92,16.9,7.0,0,131290.0,191224.0,0,0
+936,Fully Paid,121572.0,Short Term,710.0,1349798.0,6,Rent,Buy a Car,20809.56,9.1,17.0,0,206986.0,544698.0,0,0
+937,Charged Off,78694.0,Short Term,726.0,1172718.0,4,Rent,Debt Consolidation,12015.98,7.8,5.0,0,3363.0,79398.0,0,0
+938,Fully Paid,269324.0,Short Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,45745.73,25.8,13.0,0,563958.0,1329944.0,0,0
+939,Fully Paid,116138.0,Short Term,721.0,928720.0,1,Rent,Debt Consolidation,5758.14,16.0,9.0,1,88426.0,167860.0,1,0
+940,Fully Paid,65516.0,Short Term,716.0,1131564.0,10,Rent,Debt Consolidation,15936.25,21.3,6.0,0,322715.0,423654.0,0,0
+941,Fully Paid,261140.0,Short Term,731.0,1597558.0,10,Rent,Debt Consolidation,10490.66,18.8,8.0,1,138567.0,348040.0,1,0
+942,Charged Off,131582.0,Short Term,736.0,1704699.0,4,Rent,Debt Consolidation,22303.15,14.9,14.0,0,777024.0,945054.0,0,0
+943,Fully Paid,214698.0,Short Term,743.0,1446280.0,10,Own Home,Debt Consolidation,9666.06,21.0,9.0,1,210577.0,315436.0,1,0
+944,Fully Paid,85844.0,Short Term,716.0,688218.0,5,Rent,Debt Consolidation,6882.18,13.7,13.0,0,209703.0,341022.0,0,0
+945,Fully Paid,212366.0,Short Term,712.0,872917.0,0,Rent,Debt Consolidation,19931.38,19.0,20.0,0,200944.0,257928.0,0,0
+946,Fully Paid,471152.0,Short Term,726.0,1172718.0,5,Home Mortgage,Debt Consolidation,18969.22,18.0,8.0,0,712462.0,1076966.0,0,0
+947,Fully Paid,336798.0,Short Term,691.0,1260441.0,10,Home Mortgage,Debt Consolidation,13129.57,39.4,18.0,0,124089.0,733062.0,0,0
+948,Fully Paid,335192.0,Short Term,702.0,2508779.0,1,Rent,Debt Consolidation,14446.27,16.8,8.0,0,317642.0,511544.0,0,0
+949,Fully Paid,172348.0,Short Term,719.0,753692.0,3,Rent,Debt Consolidation,8102.17,14.1,5.0,0,74100.0,135344.0,0,0
+950,Fully Paid,67342.0,Short Term,726.0,1172718.0,6,Rent,Debt Consolidation,9884.37,19.7,4.0,0,11552.0,0.0,0,0
+951,Charged Off,110902.0,Short Term,726.0,1172718.0,10,Rent,Medical Bills,15150.79,16.5,8.0,0,139878.0,495286.0,0,0
+952,Charged Off,348172.0,Long Term,726.0,1172718.0,10,Home Mortgage,Debt Consolidation,4044.15,22.7,5.0,0,160607.0,715242.0,0,0
+953,Fully Paid,306592.0,Long Term,688.0,1032878.0,1,Home Mortgage,Debt Consolidation,19022.23,15.6,12.0,1,179265.0,411048.0,1,0
+954,Fully Paid,440000.0,Short Term,680.0,1425000.0,0,Rent,Debt Consolidation,6234.47,8.8,7.0,0,361703.0,594066.0,0,0
+955,Fully Paid,133034.0,Short Term,726.0,1172718.0,0,Rent,Buy a Car,14541.08,12.4,9.0,0,576840.0,905036.0,0,0
+956,Fully Paid,212454.0,Long Term,708.0,1146042.0,7,Rent,Debt Consolidation,18403.4,15.6,9.0,0,345876.0,422906.0,0,0
+957,Fully Paid,264418.0,Long Term,726.0,1172718.0,10,Own Home,Debt Consolidation,21499.45,15.0,13.0,0,256462.0,363440.0,0,0
+958,Fully Paid,262922.0,Long Term,714.0,2895087.0,9,Home Mortgage,Debt Consolidation,44632.52,23.9,27.0,0,521835.0,1405184.0,0,0
+959,Fully Paid,556160.0,Long Term,708.0,3266176.0,0,Home Mortgage,Debt Consolidation,51034.0,29.5,8.0,0,1122254.0,1353594.0,0,0
+960,Fully Paid,476498.0,Long Term,737.0,1215867.0,10,Rent,Debt Consolidation,16718.1,21.6,18.0,0,239875.0,1310166.0,0,0
+961,Fully Paid,288552.0,Long Term,695.0,1015968.0,4,Rent,Debt Consolidation,15493.36,6.2,11.0,0,191007.0,410322.0,0,0
+962,Fully Paid,155782.0,Short Term,726.0,1172718.0,10,Rent,Debt Consolidation,5823.69,19.0,13.0,0,62472.0,556490.0,0,0
+963,Fully Paid,287408.0,Short Term,747.0,754566.0,4,Rent,Debt Consolidation,5652.88,15.4,6.0,0,217493.0,431222.0,0,0
+964,Fully Paid,108240.0,Short Term,726.0,1172718.0,10,Home Mortgage,Other,12202.37,27.2,10.0,0,68951.0,201102.0,0,0
+965,Fully Paid,249546.0,Long Term,724.0,2309184.0,1,Home Mortgage,Debt Consolidation,16279.77,18.8,8.0,0,60743.0,265430.0,0,0
+966,Fully Paid,201146.0,Short Term,702.0,778297.0,9,Rent,Debt Consolidation,16279.2,10.0,14.0,0,350512.0,737924.0,0,0
+967,Fully Paid,220726.0,Short Term,726.0,1172718.0,4,Home Mortgage,Business Loan,1120.24,16.0,4.0,0,0.0,0.0,0,0
+968,Fully Paid,758450.0,Long Term,723.0,2245800.0,10,Own Home,Debt Consolidation,20960.8,18.2,7.0,0,641725.0,762872.0,0,0
+969,Fully Paid,86262.0,Short Term,738.0,863208.0,3,Own Home,Debt Consolidation,19997.88,20.4,21.0,1,269021.0,1207338.0,0,0
+970,Fully Paid,134112.0,Short Term,726.0,1172718.0,1,Rent,Debt Consolidation,17952.72,8.2,14.0,0,137332.0,333366.0,0,0
+971,Charged Off,178860.0,Short Term,704.0,1062043.0,4,Rent,Debt Consolidation,13983.43,7.0,6.0,0,145730.0,268268.0,0,0
+972,Fully Paid,224752.0,Short Term,726.0,1172718.0,3,Rent,vacation,1536.72,13.6,3.0,0,75107.0,526988.0,0,0
+973,Charged Off,215270.0,Short Term,726.0,855209.0,10,Rent,Debt Consolidation,6841.71,25.6,10.0,1,82536.0,264704.0,1,0
+974,Fully Paid,625372.0,Long Term,726.0,1172718.0,0,Rent,Debt Consolidation,43587.9,9.6,22.0,0,818045.0,1473098.0,0,0
+975,Fully Paid,171820.0,Short Term,742.0,797639.0,7,Rent,Debt Consolidation,14025.04,11.9,12.0,0,173660.0,305118.0,0,0
+976,Fully Paid,536602.0,Short Term,726.0,1172718.0,0,Rent,Other,10057.08,5.4,8.0,0,50388.0,136290.0,0,0
+977,Charged Off,110396.0,Short Term,726.0,1172718.0,6,Rent,Other,19505.02,17.8,15.0,0,30305.0,178970.0,0,0
+978,Charged Off,184690.0,Short Term,736.0,945535.0,4,Rent,Debt Consolidation,8903.97,16.1,7.0,0,57038.0,293546.0,0,0
+979,Fully Paid,216040.0,Short Term,727.0,932881.0,0,Rent,Debt Consolidation,16014.53,14.4,8.0,0,195054.0,276782.0,0,0
+980,Charged Off,668976.0,Long Term,691.0,2311008.0,10,Home Mortgage,Debt Consolidation,35242.91,30.0,13.0,0,184889.0,601326.0,0,0
+981,Charged Off,107316.0,Short Term,726.0,1172718.0,0,Rent,Other,4077.97,40.1,8.0,0,119472.0,423016.0,0,0
+982,Fully Paid,417164.0,Short Term,709.0,1002364.0,10,Home Mortgage,Debt Consolidation,9271.81,21.7,8.0,0,136705.0,205832.0,0,0
+983,Charged Off,60962.0,Short Term,746.0,285893.0,10,Home Mortgage,Other,5396.38,10.4,5.0,0,144818.0,574222.0,0,0
+984,Charged Off,525096.0,Short Term,748.0,1011028.0,6,Home Mortgage,Debt Consolidation,13985.71,22.4,7.0,0,172140.0,476872.0,0,0
+985,Fully Paid,158136.0,Short Term,690.0,866476.0,2,Rent,Other,2729.35,14.1,15.0,0,63156.0,115522.0,0,0
+986,Fully Paid,225126.0,Short Term,720.0,731044.0,9,Rent,Debt Consolidation,7188.46,19.4,10.0,1,200013.0,238744.0,1,0
+987,Fully Paid,26400.0,Short Term,659.0,1330532.0,4,Home Mortgage,Home Improvements,24392.96,15.7,16.0,0,602699.0,1166968.0,0,0
+988,Fully Paid,296274.0,Short Term,725.0,583737.0,8,Rent,Debt Consolidation,13815.09,23.2,16.0,0,436943.0,869308.0,0,0
+989,Fully Paid,393976.0,Long Term,630.0,1455533.0,10,Home Mortgage,Debt Consolidation,21347.83,21.5,14.0,0,282264.0,415800.0,0,0
+990,Fully Paid,272646.0,Short Term,744.0,1506928.0,10,Home Mortgage,Debt Consolidation,26120.06,21.3,10.0,0,965903.0,1686894.0,0,0
+991,Fully Paid,725406.0,Long Term,724.0,2432000.0,9,Home Mortgage,Debt Consolidation,36480.0,14.4,9.0,0,411331.0,862840.0,0,0
+992,Fully Paid,129844.0,Short Term,735.0,2990144.0,10,Home Mortgage,Other,33888.21,28.9,9.0,0,391400.0,538868.0,0,0
+993,Fully Paid,612304.0,Short Term,747.0,1794170.0,4,Home Mortgage,Debt Consolidation,14248.67,29.9,9.0,0,510720.0,1411344.0,0,0
+994,Fully Paid,257400.0,Short Term,720.0,703950.0,3,Rent,Other,3132.53,11.4,5.0,0,93233.0,175824.0,0,0
+995,Charged Off,485408.0,Short Term,721.0,3601412.0,4,Rent,Medical Bills,24789.68,15.2,3.0,0,296609.0,364210.0,0,0
+996,Fully Paid,264286.0,Short Term,726.0,1172718.0,3,Rent,Debt Consolidation,14784.85,10.9,15.0,0,322221.0,495484.0,0,0
+997,Fully Paid,605836.0,Short Term,746.0,1950863.0,10,Home Mortgage,Debt Consolidation,39505.18,14.0,10.0,0,972154.0,1437612.0,0,0
+998,Fully Paid,223168.0,Long Term,705.0,1252784.0,7,Home Mortgage,Medical Bills,20566.55,17.8,26.0,0,236379.0,918434.0,0,0
+999,Charged Off,359392.0,Long Term,726.0,1172718.0,10,Home Mortgage,Other,19534.85,12.0,7.0,0,58539.0,396440.0,0,0
