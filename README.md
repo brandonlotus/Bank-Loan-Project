@@ -45,5 +45,4 @@ Model machine learning dapat diterapkan pada dashboard divisi peminjaman bank un
 <img src="https://github.com/brandonlotus/FinalProject-BankLoan/blob/main/templates/images/dash_pred.jpg" width="800">
 <br>
 <img src="https://github.com/brandonlotus/FinalProject-BankLoan/blob/main/templates/images/dash_res.jpg" width="800">
-<br>
 
